@@ -1,0 +1,14 @@
+{
+  "version": "0.2.4",
+  "build": "6",
+  "date": "2026-09-23",
+  "isolated_qa": true,
+  "native_launch": "build_and_run.sh --qa completed",
+  "ui_verified": false,
+  "computer_use_error": "server -10005, ScreenCaptureKit -3811: Failed to start stream due to audio/video capture failure",
+  "real_nano_inference": false,
+  "qa_app_closed": true,
+  "backend_tests_passed": 61,
+  "frontend_tests_passed": 14,
+  "codesign_deep_strict": "passed"
+}

@@ -1,0 +1,21 @@
+I'm moving my game from Three.js to Godot.
+
+Does that mean starting over?
+
+For the code, yes. For the whole project? No.
+
+Heartwoodfall started as a Three.js project.
+
+Claude helped me fix the character movement.
+
+Now I'm rebuilding in Godot.
+
+The original still guides the characters, environments, and interface.
+
+Some assets may carry over, including my three-D models.
+
+A new engine means rebuilding the foundation,
+
+not throwing away every useful idea.
+
+Subscribe for more content.

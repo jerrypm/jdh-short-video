@@ -1,0 +1,46 @@
+{
+  "project_id": "645965dbc6934456869044b6741b21cc",
+  "visuals": {
+    "source/image-011.png": "3e26df1a1dc845d2ad8e7b2f41bb7e44",
+    "visuals/02-question.png": "396c24de68e845e8b9dcfacf372bcc96",
+    "visuals/03-answer.png": "f4893fb9849a42efa335cf521d0f72f8",
+    "visuals/04-origin.png": "effdb6c2bc6441adb1d6daa3198ac89e",
+    "source/image-002.png": "5bde5d9854034ceaaa3ee318ac2c43fa",
+    "visuals/08-assets.png": "7e233c2b22664f57a358f71eb37accd4",
+    "visuals/09-foundation.png": "b6b6a19f74264acfa18efcbd93140c69",
+    "visuals/10-keep.png": "58a9101bae8d4bdda7ada72a8251381a",
+    "visuals/11-follow.png": "843da61ea287476eb79390bae8906eae",
+    "visuals/11-subscribe.png": "15d223c57ec5494da03344f0007e5b14"
+  },
+  "voice": "am_michael",
+  "speed": 0.96,
+  "tts_jobs": {
+    "heartwood-01": "be97432be5094cfb8e7a30b05b3a8ade",
+    "heartwood-02": "c929b985e68a4ff3a79eceeb01f2cb20",
+    "heartwood-03": "0af56af2e5b54c10a4dd5f3442b83a4a",
+    "heartwood-04": "634c307c37434e9ba2117a1d9f9973f4",
+    "heartwood-05": "25dd231843c642979c3d4aac8122ec27",
+    "heartwood-06": "eda40d18d47e433292bb3ce5266e5978",
+    "heartwood-07": "03c33710bd7c4f689f103bd62cef0ce2",
+    "heartwood-08": "f47ca0ab124b4e61a4a66dcec21a589d",
+    "heartwood-09": "50aba00318e945f28eacb0bb9aa29854",
+    "heartwood-10": "4ae989b9f2024457986d2e6ec050ddaf",
+    "heartwood-11": "67ef5a24e5324e9ab821d6884471932b"
+  },
+  "frames": 1289,
+  "draft_job": "651184541c864e72865572f4a7067346",
+  "final_job": "76d334f9364e46b0beddbfe5fe09ba64",
+  "leveled_audio": {
+    "heartwood-01": "869ce9008147431a8a2880d14a8ca501",
+    "heartwood-02": "3bd9ec7141a94646a0413114a6732c85",
+    "heartwood-03": "7388b72d18ce4e2fa03dc3a56bba44a5",
+    "heartwood-04": "8ba56e1529ba4369bc1e8da4259fae54",
+    "heartwood-05": "f221f33189c64f5e91dd83a9ec84df49",
+    "heartwood-06": "ebffd8b9d4964a1fabf5dac738399b80",
+    "heartwood-07": "c6ab77bc71ff496b9085faa5d0d1145b",
+    "heartwood-08": "563c06c133bd4b868773f257390039a6",
+    "heartwood-09": "348a6b2e551643f59696a0035ccd34e6",
+    "heartwood-10": "d96264fb6a31408782b12c9172f0dcbe",
+    "heartwood-11": "3e2f5f0d11034e9e94105f6951215346"
+  }
+}

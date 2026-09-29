@@ -1,0 +1,526 @@
+                                                 Open in app
+
+                                                                                     54
+                                Search                                       Write
+
+
+
+Stackademic
+
+
+    Member-only story
+
+
+
+ Claude Code           Artificial Intelligence      Github     Programming
+
+ Developer Tools
+
+
+
+9 Cool Repositories I Found on the
+Internet This Week
+      Jerry PM 7 min read · Sep 6, 2026
+
+
+
+
+     601           9           2
+
+
+
+
+The SKILL.md quietly became the unit of distribution and Google shipping one is
+the tell
+I keep a scratch file of repos worth a second look.
+
+
+Most weeks it fills with noise: a wrapper, a rewrite of something that already
+worked, somebody’s weekend parser.
+
+
+I opened it this week to clean it out and ended up reading the whole thing
+instead.
+
+
+
+  Nothing In The Logs
+  Nothing In The Logs Claude Fable 5.1 can drop the reasoning you
+  paid for without raising a single error. The check that…
+  21zerixpm.medium.com
+
+
+
+
+Nine repos. Six of them don’t install as a library, a binary, or a service.
+
+
+They install as instructions for an agent: a SKILL.md and a few folders your
+agent reads.
+
+
+I’ve written Swift long enough to watch a couple of packaging conventions
+come and go. This one showed up without an announcement and already
+has Google in it.
+
+
+Here they are, in the order I saved them, with what each one actually is.
+
+
+
+
+1. ECC ➞ the maximalist
+affaan-m/ECC · ~247k stars · MIT
+The Anthropic hackathon winner’s entire Claude Code setup: 286 skills, 68
+agents, 23 lifecycle hooks.
+
+
+I cloned and measured this one properly last week.
+
+
+The skill index alone costs about 21,500 tokens per session on a full install,
+so take the minimal profile and the six skills that match your stack.npx ecc-
+universal setup
+
+
+Read a gents/swift-re viewer. md even if you never install it.
+
+
+
+
+2. CLI-Anything ➞ the one I didn’t expect
+HKUDS/CLI-Anything · 48.5k stars · Apache 2.0
+This is the idea I’ve thought about most since I saved it.
+
+
+It generates command-line interfaces for desktop software that never had
+one: Blender, GIMP, LibreOffice, FreeCAD, QGIS, Godot, OBS, Krita, 80+
+programs, so an agent can drive them with commands instead of clicking
+pixels.
+
+
+GUI automation is fragile because it automates the wrong layer. Give the
+agent a CLI and most of that fragility goes away.
+
+
+It ships a seven-phase pipeline that reads a program’s source, maps its
+capabilities to commands, writes the CLI, generates the tests, and publishes
+the package.
+
+
+There’s a CLI-Hub registry for installing pre-built ones, and 2,280+ tests
+passing.
+It also auto-generates a SKILL.md for each CLI so agents can discover it,
+which is the part that matters for the pattern.
+
+
+
+
+3. screenshot-to-code ➞ the veteran
+abi/screenshot-to-code · 76.8k stars · MIT
+Drop in a screenshot, get HTML/Tailwind, React, Vue, Bootstrap, or Ionic
+back. It also takes Figma frames and screen recordings.
+
+
+This one has been around and it shows:
+
+
+FastAPI backend, React/Vite frontend, a Docker compose file, and a hosted
+version at screenshottocode.com if you don’t want to wire up keys.
+
+
+It runs against Gemini, GPT, Claude, and Replicate.
+
+
+It’s excellent for the first 80% of a static layout and it will not give you a
+component architecture.
+
+
+For iOS work it produces web output, so treat it as a reference render rather
+than something you ship.
+
+
+
+
+4. ScrapeGraphAI ➞ scraping that survives a redesign
+ScrapeGraphAI/Scrapegraph-ai · 29.5k stars · MIT
+You describe what you want; it works out how to get it.
+
+
+The pipelines are graph-based: SmartScraperGraph for one page,
+SearchGraph across results, SpeechGraph for audio out.
+
+
+The reason to care is maintenance.
+
+
+A CSS-selector scraper breaks the morning the site ships a redesign.
+
+
+A prompt-driven one usually doesn’t.
+It runs against OpenAI, Groq, Azure, and Gemini, or fully local through
+Ollama, which is the configuration to use if you’re pointing it at anything you
+don’t want leaving your machine.
+
+
+
+
+5. Agent Skills ➞ the tell
+google/skills · 19.4k stars · Apache 2.0
+100+ agent skills for Google Cloud, GKE, databases, security, and developer
+tooling.
+
+
+
+
+    npx skills add google/skills
+
+
+
+
+That command isn’t a Cloud SDK or a Terraform provider.
+
+
+It’s a skill installer, and it bundles plugins for Claude Code and Codex, which
+are competitors’ harnesses.
+
+
+If someone asked me for evidence that this convention is real rather than a
+vibe, this is the entry I’d point at:
+
+
+Google shipping it inside its own namespace, with first-class support for
+other vendors’ agents.
+
+
+
+
+6. DeepSeek Harness ➞ the one to watch, carefully
+deepseek-ai/deepseek-harness · ~210k stars · MIT
+An agent framework on an everything-is-a-plugin architecture, with a CLI
+and a web UI.
+
+
+
+
+   npx @deepseek-ai/dsh web
+
+
+
+
+It has roughly 210,000 stars and 14,900+ commits, and the README calls it a
+developer preview with breaking changes expected.
+
+
+Those two things are accurate at the same time.
+Star it, read the plugin architecture, don’t put it under anything you’re on call
+for yet.
+
+
+
+
+7. Humanizer ➞ 35 patterns
+blader/humanizer · 41k stars · MIT
+
+
+
+
+An agent skill that rewrites AI-generated prose to stop sounding like AI-
+generated prose.
+
+
+It works from a documented pattern list drawn from Wikipedia’s “Signs of AI
+writing”: it rewrites once, checks the draft against the patterns and against
+the original claims, then rewrites again.
+
+
+It leaves code, data, and frontmatter alone while it edits prose.
+
+
+That last detail is why it’s on the list. Most “humanizer” tools happily mangle
+a code block.
+8. Stop Slop ➞ same problem, different method
+hardikpandya/stop-slop · 16.8k stars · MIT
+
+
+
+
+Stop Slop goes at the same target from a different direction: three categories
+of tell (throat-clearing openers and jargon, structural habits like binary
+contrasts and false agency, sentence-level rules), plus a five-dimension
+rubric covering directness, rhythm, trust, authenticity, and density, scored
+out of 50, with 35 as the revision threshold.
+Humanizer rewrites. Stop Slop scores, which means you can put it in a loop
+or a pre-commit check.
+
+
+Two independent repos, 57.8k stars between them, solving the identical
+problem in the same season. That looks to me like a market forming around
+the cleanup cost of everything else on this list.
+
+
+
+
+9. OmniRoute ➞ the plumbing
+diegosouzapw/OmniRoute · 59.7k stars · MIT
+
+
+An AI gateway: one endpoint in front of 352 providers, 19 routing strategies,
+fallback chains, circuit breakers, and MCP server support.
+
+
+It also advertises 15% to 95% token savings through compression, and
+catalogs roughly 1.51 billion free tokens a month across 150+ free providers.
+
+
+Those are the repo’s numbers, not mine, and the compression range is wide
+enough that I’d measure it on your own traffic before repeating it.
+
+
+The useful part is unglamorous: when one provider degrades, your agent
+doesn’t stop.
+
+
+
+
+The pattern, stated plainly
+Count how these nine install.
+
+
+Agent skills and harnesses: ECC, CLI-Anything, google/skills, DeepSeek
+Harness, Humanizer, Stop Slop. Six of nine.
+Applications: screenshot-to-code, ScrapeGraphAI. Two of nine.
+
+
+Infrastructure: OmniRoute. One of nine.
+
+
+Six of nine ship as things you hand to an agent rather than things you call
+from your own code.
+
+
+A year ago this list would have been nine libraries. And two of those six exist
+purely to clean up after the other four.
+
+
+
+  Claude Fable 5.1: What Actually Changed
+  A 75% cache-read cut, three breaking API changes, and a science
+  score that doubled in the order that will actually…
+  medium.com
+
+
+
+
+What I’d actually install tonight
+Not all of it.
+
+
+That was the lesson from measuring ECC: a skill you never fire still costs you
+index space every session.
+
+
+Three, in this order.
+
+
+ 1. stop-slop. Smallest of the nine, and the rubric is useful whether or not an
+    agent ever runs it. Read the five dimensions and you’ll edit your own
+    writing better.
+
+ 2. google/skills, selectively. Pick the categories you actually touch and skip
+    the ninety you don’t.
+
+ 3. CLI-Anything, but only if you have a GUI program sitting in a workflow.
+    If you do, it’s the highest-leverage thing here.
+The rest get cloned and read, not installed.
+
+
+One caveat about the numbers
+Every star count here is real as of this week, and several of them grew very
+fast.
+
+
+A 210,000-star developer preview tells you about distribution, not about
+production readiness.
+
+
+Read the README, check the last commit date, and look at whether the
+Issues tab is full of people using it or full of people failing to install it.
+
+
+That takes four minutes, and it’s how I decide whether something goes in the
+scratch file or on disk.
+
+
+
+
+More work and developer resources: zerix1.gumroad.com
+
+
+Follow me on Medium Jerry PM for more iOS/AI/Tools and developer writing.
+Thank you for reading! , If this saved you from guessing at your tags, If you
+enjoyed it, please consider clapping and following for more updates!           👏
+Before you go
+   Please take a moment to like the post and follow the writer!
+
+   Did you know that over 400,000 developers share what they’re building,
+   learning, and discovering across our platforms every month? Learn how
+   you can contribute here.
+
+
+
+ Claude Code           Artificial Intelligence               Github   Programming
+
+
+ Developer Tools
+
+
+
+
+                                      Written by Jerry PM
+                                     2.7K followers · 157 following
+
+                                                 IOS Engineer
+
+
+
+                                                    Follow
+
+
+                                             Buy me a coffee
+
+
+                                                    Etsy
+
+
+                                                  Gumroad
+
+
+
+
+         Published in Stackademic                                                   Following
+         88K followers · Last published 1 hour ago
+             Stackademic is a learning hub for programmers, devs, coders, and engineers.
+             Our goal is to democratize free coding education for the world.
+
+
+
+
+Responses (9)
+
+
+        Jerry PM
+
+
+  What are your thoughts?
+
+
+
+
+        Hunter Wiginton
+        Sep 15
+
+That OmniRoute is a game changer
+
+
+    3     Reply
+
+
+
+        Fozle Rabbi Rana
+        Sep 15
+
+The shift from installing binaries to distributing raw SKILL.md instruction files is wild. Jerry PM nailed it—when
+codebases are managed by agents, documentation is the package manager.
+
+
+    2            1 reply   Reply
+
+
+
+        Koboshi
+        Sep 14
+
+I enjoy this format. Many hidden gems sit on GitHub, and posts like this save hours of aimless searching.
+
+
+    5     Reply
+
+
+
+
+  See all responses
+More from Jerry PM and Stackademic
+
+
+
+
+    Jerry PM · Mar 7                                          In Stackademic by Umesh Kumar Yadav · Sep 18
+
+
+App Structure Best Practices in                           JDK 27 has been officially released,
+SwiftUI: Organizing Your Project                          I’m stunned!
+Part 58 of 100 in the SwiftUI Zero to Expert              On September 15, 2026, Oracle officially
+Series                                                    released JDK 27, corresponding to JSR 402,…
+
+  64                                                             221      8       2
+
+
+
+
+    In Stackademic by HabibWahid · Mar 17                     Jerry PM · Jan 17
+
+
+Stop Designing REST APIs Like a                           Buttons and Controls in SwiftUI:
+Mid-Level Dev: 4Advanced…                                 Building Interactive UIs
+Your API is versioned, paginated, and                     Part 9 of 100 in the SwiftUI Zero to Expert
+validated. Now learn what separates a good…               Series
+
+       1.4K     33        19                                57      2
+
+
+
+
+  See all from Jerry PM        See all from Stackademic
+Recommended from Medium
+
+
+
+
+    In Mac O’Clock by Nikhil Vemu    · Jul 4               Divad     · Aug 12
+
+
+macOS 27 Has a Hidden LLM Inside                       I Tested Claude Code Skills Until I
+— 10 (Amazing) Things You Can D…                       Struck Gold (4 Best Claude Skills)
+It’s free, runs entirely on your Mac, and lies in      Your AI is bloated, and it’s killing your
+your Terminal from the day you update                  performance
+
+       2.4K      35      18                                   1.2K      34      11
+
+
+
+
+    In Level Up Coding by Haz Techy Content · Jul 28       In Data Science Collective by Anubhav · Aug 1
+
+
+Open Source Apps To Replace Your                       Anthropic Said No to the Most-
+Every Subscription (And don’t…                         Requested Feature in Claude Code
+So recently I turned 18 and got my first credit        AGENTS.md is the file every other coding
+card to put all my pocket money in and was…            agent reads. Anthropic still won’t add it, and…
+
+       1.1K     22      3                                     1.4K      28      3
+   In Towards Deep Learni… by Sumit Pand… · Jun 17      In Towards AI by Hamza Boulahia · Aug 7
+
+
+I Built a Monster CLAUDE.md, And                     Why OpenCode Beat Out Every
+My Coding Agent Got Scary Good                       Other AI Coding Harness I Tried
+How a gstack CLAUDE.md, built on                     A year of testing came down to one clear
+Karpathy’s coding rules and harness…                 winner, and it wasn’t Claude Code.
+
+      1.1K    15     16                                    1K     40      6
+
+
+
+
+  See more recommendations
+

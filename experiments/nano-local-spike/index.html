@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="spike-token" content="__SPIKE_TOKEN__">
+  <title>JDH · Gemini Nano Local Check</title>
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="/spike.js"></script>
+</head>
+<body>
+<main>
+  <p class="eyebrow">JDH SHORTS STUDIO · TASK 01</p>
+  <h1>Gemini Nano lokal</h1>
+  <p>Pengujian terpisah dari proyek video Anda. Inference menggunakan LanguageModel di Chrome.
+    Tidak ada API key, layanan inference cloud, atau provider pengganti.</p>
+  <p>Gunakan Chrome personal yang diizinkan. Jika model belum tersedia, tombol persiapan
+    dapat memulai unduhan model resmi Chrome. Naskah uji adalah contoh umum.</p>
+  <div class="controls">
+    <button id="check">1. Periksa kemampuan</button>
+    <button id="prepare">2. Siapkan model lokal</button>
+    <button id="run">3. Uji cold + warm</button>
+    <button id="cancel-test">4. Uji pembatalan</button>
+    <button id="stop" class="secondary" disabled>Hentikan</button>
+  </div>
+  <p id="status" role="status" aria-live="polite">Belum diperiksa.</p>
+  <section>
+    <h2>Fixture video dari aplikasi</h2>
+    <p>Putar video ini sebelum uji inference untuk mengukur event stall dan kemajuan
+      playback. Ini pemeriksaan browser; kelancaran audio aplikasi Mac tetap perlu diuji terpisah.</p>
+    <video id="preview" controls loop preload="auto" src="/fixture.mp4"></video>
+    <p id="playback">Belum diputar.</p>
+  </section>
+  <section>
+    <h2>Prototype koneksi backend Mac → Nano</h2>
+    <p>Companion tab ini menerima satu jenis pekerjaan fixture dari proses lokal.
+      Editor utama belum diubah. Tutup tab untuk menguji deteksi putus koneksi.</p>
+    <button id="bridge" class="secondary">Hubungkan companion lokal</button>
+    <p id="bridge-status" role="status">Belum terhubung.</p>
+  </section>
+  <section>
+    <h2>Bukti pengujian</h2>
+    <p>Hasil otomatis disimpan ke laporan lokal setelah tiap pengujian.
+      Tombol unduh menyediakan salinan JSON.</p>
+    <button id="download" class="secondary">Unduh laporan JSON</button>
+    <pre id="report">Belum ada hasil.</pre>
+  </section>
+</main>
+</body>
+</html>

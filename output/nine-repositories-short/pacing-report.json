@@ -1,0 +1,119 @@
+[
+  {
+    "scene": "nine-repos-01",
+    "source_seconds": 5.08,
+    "lead_trim": 0.34,
+    "end_trim": 0.31,
+    "kept_seconds": 4.43,
+    "take_frames": 133,
+    "threshold": 0.0037
+  },
+  {
+    "scene": "nine-repos-02",
+    "source_seconds": 4.78,
+    "lead_trim": 0.36,
+    "end_trim": 0.39,
+    "kept_seconds": 4.03,
+    "take_frames": 121,
+    "threshold": 0.0036
+  },
+  {
+    "scene": "nine-repos-03",
+    "source_seconds": 5.78,
+    "lead_trim": 0.34,
+    "end_trim": 0.39,
+    "kept_seconds": 5.05,
+    "take_frames": 152,
+    "threshold": 0.0032
+  },
+  {
+    "scene": "nine-repos-04",
+    "source_seconds": 5.94,
+    "lead_trim": 0.32,
+    "end_trim": 0.35,
+    "kept_seconds": 5.27,
+    "take_frames": 159,
+    "threshold": 0.004
+  },
+  {
+    "scene": "nine-repos-05",
+    "source_seconds": 5.64,
+    "lead_trim": 0.32,
+    "end_trim": 0.37,
+    "kept_seconds": 4.95,
+    "take_frames": 149,
+    "threshold": 0.0036
+  },
+  {
+    "scene": "nine-repos-06",
+    "source_seconds": 5.34,
+    "lead_trim": 0.34,
+    "end_trim": 0.39,
+    "kept_seconds": 4.61,
+    "take_frames": 139,
+    "threshold": 0.0038
+  },
+  {
+    "scene": "nine-repos-07",
+    "source_seconds": 5.88,
+    "lead_trim": 0.34,
+    "end_trim": 0.39,
+    "kept_seconds": 5.15,
+    "take_frames": 155,
+    "threshold": 0.0034
+  },
+  {
+    "scene": "nine-repos-08",
+    "source_seconds": 6.04,
+    "lead_trim": 0.34,
+    "end_trim": 0.47,
+    "kept_seconds": 5.23,
+    "take_frames": 157,
+    "threshold": 0.0038
+  },
+  {
+    "scene": "nine-repos-09",
+    "source_seconds": 4.94,
+    "lead_trim": 0.32,
+    "end_trim": 0.33,
+    "kept_seconds": 4.29,
+    "take_frames": 129,
+    "threshold": 0.0034
+  },
+  {
+    "scene": "nine-repos-10",
+    "source_seconds": 5.98,
+    "lead_trim": 0.38,
+    "end_trim": 0.71,
+    "kept_seconds": 4.89,
+    "take_frames": 147,
+    "threshold": 0.0034
+  },
+  {
+    "scene": "nine-repos-11",
+    "source_seconds": 4.58,
+    "lead_trim": 0.32,
+    "end_trim": 0.33,
+    "kept_seconds": 3.93,
+    "take_frames": 118,
+    "threshold": 0.0035
+  },
+  {
+    "scene": "nine-repos-12",
+    "source_seconds": 4.74,
+    "lead_trim": 0.34,
+    "end_trim": 0.37,
+    "kept_seconds": 4.03,
+    "take_frames": 121,
+    "threshold": 0.004
+  },
+  {
+    "scene": "nine-repos-13",
+    "source_seconds": 2.56,
+    "lead_trim": 0.32,
+    "end_trim": 0.45,
+    "kept_seconds": 1.79,
+    "take_frames": 54,
+    "threshold": 0.003
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "title": "9 GitHub Repos Worth a Look | AI Tools for Developers",
+  "description": "Nine repositories from this roundup, one clear point each: agent skills and hooks, command-line tools for desktop apps, screenshot-to-code, prompt-driven scraping, an agent framework in developer preview, two prose editors and an AI gateway.\n\nRepositories in the order I saved them:\n1. ECC — https://github.com/affaan-m/ECC\n2. CLI-Anything — https://github.com/HKUDS/CLI-Anything\n3. screenshot-to-code — https://github.com/abi/screenshot-to-code\n4. ScrapeGraphAI — https://github.com/ScrapeGraphAI/Scrapegraph-ai\n5. Google Skills — https://github.com/google/skills\n6. DeepSeek Harness — https://github.com/deepseek-ai/deepseek-harness\n7. Humanizer — https://github.com/blader/humanizer\n8. Stop Slop — https://github.com/hardikpandya/stop-slop\n9. OmniRoute — https://github.com/diegosouzapw/OmniRoute\n\nSource article: https://blog.stackademic.com/9-cool-repositories-i-found-on-the-internet-this-week-4966841b1a22\n\nNarration is local synthetic speech (Kokoro). Visuals are article imagery and original typography, not live demonstrations of any repository.\n\n#GitHub #DeveloperTools #AI #Coding",
+  "language": "en",
+  "project_revision": 70,
+  "preset": "final",
+  "upload_method": "manual",
+  "verification": {
+    "verified_file": true,
+    "full_decode_passed": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "frames": 1934,
+    "container_seconds": 64.466667,
+    "audio": {
+      "seconds": 64.46933333333334,
+      "peak_dbfs": -3.163,
+      "near_full_scale_samples": 0,
+      "at_full_scale_samples": 0,
+      "long_silences": [],
+      "sample_rate": 48000,
+      "window_ms": 10
+    },
+    "sample_peak_only": true
+  }
+}

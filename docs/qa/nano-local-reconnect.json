@@ -1,0 +1,28 @@
+{
+  "connected": true,
+  "job": {
+    "id": "5c69003f-a857-4a8a-abf5-d882b374e090",
+    "action": "ideas_fixture",
+    "status": "completed",
+    "deadline": 1831032.826274791,
+    "output": {
+      "ideas": [
+        {
+          "title": "SwiftUI Layout Basics",
+          "hook": "Master the fundamental layout elements \u2013 stacks, arrays, and modifiers \u2013 for building responsive user interfaces."
+        },
+        {
+          "title": "Data Binding Demo",
+          "hook": "Quickly update your UI based on changes in data with dynamic data binding in SwiftUI."
+        },
+        {
+          "title": "Image & Text Handling",
+          "hook": "Learn how to effectively display images and text with SwiftUI's modifiers and layout options."
+        }
+      ]
+    },
+    "error": null,
+    "elapsed_ms": 12240.5
+  },
+  "client_elapsed_ms": 13089.1
+}

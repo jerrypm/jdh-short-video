@@ -1,0 +1,11 @@
+{
+  "connected": false,
+  "job": {
+    "id": "7958d74b-bc43-407d-9455-6fac61e6d135",
+    "action": "ideas_fixture",
+    "status": "failed",
+    "deadline": 1830975.813750291,
+    "error": "companion_disconnected"
+  },
+  "client_elapsed_ms": 13517.9
+}

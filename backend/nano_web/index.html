@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Gemini Nano · JDH Shorts Studio</title>
+  <link rel="stylesheet" href="/nano/styles.css">
+  <script type="module" src="/nano/companion.js"></script>
+</head>
+<body><main>
+  <p class="eyebrow">JDH SHORTS STUDIO</p>
+  <h1>Gemini Nano lokal</h1>
+  <p>Tab ini menghubungkan model di Chrome dengan aplikasi Mac.
+    Biarkan tab dan Chrome tetap terbuka selama memakai AI.</p>
+  <div class="status"><span id="indicator"></span><p id="status" role="status" aria-live="polite">Memeriksa koneksi…</p></div>
+  <section id="pairing" hidden>
+    <h2>Pasangkan dengan aplikasi</h2>
+    <p>Buka Setup di JDH Shorts Studio, buat tautan companion, lalu buka tautan itu
+      di Chrome personal Anda.</p>
+  </section>
+  <section id="controls" hidden>
+    <dl><dt>Model</dt><dd>Gemini Nano · diproses di perangkat ini</dd>
+      <dt>Teks English</dt><dd id="english">Memeriksa…</dd>
+      <dt>Teks Indonesia</dt><dd id="indonesian">Memeriksa…</dd></dl>
+    <div class="buttons">
+      <button id="prepare">Siapkan model lokal</button>
+      <button id="check" class="secondary">Periksa lagi</button>
+      <button id="cancel" class="secondary" disabled>Batalkan permintaan</button>
+      <button id="disconnect" class="secondary">Putuskan koneksi</button>
+    </div>
+    <p id="progress" role="status"></p>
+  </section>
+  <p class="note">Tidak ada API key atau layanan AI cloud. Naskah hanya dikirim ke model lokal
+    ketika Anda menjalankan bantuan AI. Hasil ditinjau di aplikasi sebelum diterapkan.</p>
+  <p class="note">Download awal memerlukan internet dan ruang penyimpanan yang cukup.
+    Versi ini menyediakan bantuan naskah English. Jika aplikasi dimulai ulang,
+    buat tautan companion baru dari Setup.</p>
+</main></body>
+</html>

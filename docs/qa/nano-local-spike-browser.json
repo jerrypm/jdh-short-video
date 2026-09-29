@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "provider": "chrome-gemini-nano",
+  "inference": "on-device",
+  "started_at": "2026-09-22T09:43:38.049Z",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+  "origin": "http://127.0.0.1:8769",
+  "capabilities": {},
+  "results": [
+    {
+      "name": "Permintaan backend lokal",
+      "at": "2026-09-22T09:43:59.081Z",
+      "request_id": "5c69003f-a857-4a8a-abf5-d882b374e090",
+      "validated": {
+        "ideas": [
+          {
+            "title": "SwiftUI Layout Basics",
+            "hook": "Master the fundamental layout elements \u2013 stacks, arrays, and modifiers \u2013 for building responsive user interfaces."
+          },
+          {
+            "title": "Data Binding Demo",
+            "hook": "Quickly update your UI based on changes in data with dynamic data binding in SwiftUI."
+          },
+          {
+            "title": "Image & Text Handling",
+            "hook": "Learn how to effectively display images and text with SwiftUI's modifiers and layout options."
+          }
+        ]
+      },
+      "inference_ms": 12240.5,
+      "status": "passed",
+      "elapsed_ms": 12437.9
+    }
+  ],
+  "limitations": [
+    "The optional loopback companion tests a backend prototype, not the production Mac app or Native Messaging.",
+    "Browser playback measurements do not prove audible Mac app playback quality.",
+    "No OS-wide network audit or offline test has been performed by this page."
+  ],
+  "recorded_at": "2026-09-22T09:44:11.554197+00:00"
+}

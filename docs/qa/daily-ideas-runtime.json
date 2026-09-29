@@ -1,0 +1,23 @@
+{
+  "app": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/dist/JDH Shorts Studio.app",
+  "version": "0.2.4",
+  "isolated_data": true,
+  "real_nano_inference": false,
+  "fixture_label": "QA FIXTURE",
+  "checks": [
+    "empty catalogue onboarding",
+    "selected local reference",
+    "manual mode",
+    "idempotent request",
+    "bounded curated context",
+    "validated three-card fixture",
+    "save and skip feedback",
+    "cache and feedback survive bundled process restart",
+    "offline cache without automatic retry",
+    "timezone invalidates freshness",
+    "forget purges cache and saved feedback",
+    "project and actual PNG unchanged",
+    "clean EOF shutdown"
+  ],
+  "passed": true
+}

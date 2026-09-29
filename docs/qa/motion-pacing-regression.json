@@ -1,0 +1,83 @@
+{
+  "isolated_data": true,
+  "real_nano_inference": false,
+  "real_speech": "bundled local Kokoro af_heart English",
+  "metrics": {
+    "draft": {
+      "expected_seconds": 10.5,
+      "decoded_audio_seconds": 10.5173125,
+      "preview_timeline_tone_onsets": [
+        0.3,
+        1.6,
+        3.3,
+        4.6
+      ],
+      "export_tone_onsets": [
+        0.3,
+        1.6,
+        3.3,
+        4.6
+      ],
+      "onset_errors_seconds": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "narration_seconds": 10.5
+    },
+    "final": {
+      "expected_seconds": 10.5,
+      "decoded_audio_seconds": 10.5173125,
+      "preview_timeline_tone_onsets": [
+        0.3,
+        1.6,
+        3.3,
+        4.6
+      ],
+      "export_tone_onsets": [
+        0.3,
+        1.6,
+        3.3,
+        4.6
+      ],
+      "onset_errors_seconds": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "narration_seconds": 10.5
+    },
+    "music_loop": {
+      "source_seconds": 0.7,
+      "export_tone_onsets": [
+        0.3,
+        1.6,
+        3.3,
+        4.6
+      ],
+      "nonzero_in_narration_gaps": true
+    }
+  },
+  "checks": [
+    "real bundled Kokoro English speech",
+    "measured PCM and silence",
+    "analysis leaves project unchanged",
+    "review and full-audio apply",
+    "atomic backup and retry",
+    "audio trim preserved",
+    "draft export timing within one frame",
+    "draft complete speech waveform and SRT boundaries",
+    "final export timing within one frame",
+    "final complete speech waveform and SRT boundaries",
+    "revision-checked Undo and Redo",
+    "looping music export preserves narration timing",
+    "restart persistence and expired proposal rejection",
+    "clean sidecar shutdown"
+  ],
+  "passed": true,
+  "suite_version": "0.2.6",
+  "tested_app_version": "0.2.7",
+  "tested_app_build": "9"
+}

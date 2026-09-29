@@ -1,0 +1,536 @@
+{
+  "file": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/output/nine-repositories-short/final/final.mp4",
+  "label": "final",
+  "container": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "frames": 1934,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "seconds": 64.467,
+    "size_bytes": 8370884
+  },
+  "decode": "full decode of every frame completed without error",
+  "timeline": {
+    "project_frames": 1934,
+    "video_frames": 1934,
+    "matches": true,
+    "project_seconds": 64.47
+  },
+  "audio_gaps_over_0_9s": [],
+  "loudness_ebur128": {
+    "I": -16.0,
+    "LRA": 2.5,
+    "Peak": -3.2
+  },
+  "scene_boundary_silence": {
+    "boundaries": [
+      {
+        "cut_at_seconds": 4.93,
+        "silence_before_seconds": 0.65,
+        "silence_after_seconds": 0.07
+      },
+      {
+        "cut_at_seconds": 9.47,
+        "silence_before_seconds": 0.63,
+        "silence_after_seconds": 0.05
+      },
+      {
+        "cut_at_seconds": 15.03,
+        "silence_before_seconds": 0.67,
+        "silence_after_seconds": 0.07
+      },
+      {
+        "cut_at_seconds": 20.83,
+        "silence_before_seconds": 0.67,
+        "silence_after_seconds": 0.07
+      },
+      {
+        "cut_at_seconds": 26.3,
+        "silence_before_seconds": 0.66,
+        "silence_after_seconds": 0.06
+      },
+      {
+        "cut_at_seconds": 31.43,
+        "silence_before_seconds": 0.65,
+        "silence_after_seconds": 0.05
+      },
+      {
+        "cut_at_seconds": 37.1,
+        "silence_before_seconds": 0.66,
+        "silence_after_seconds": 0.06
+      },
+      {
+        "cut_at_seconds": 42.83,
+        "silence_before_seconds": 0.59,
+        "silence_after_seconds": 0.07
+      },
+      {
+        "cut_at_seconds": 47.63,
+        "silence_before_seconds": 0.65,
+        "silence_after_seconds": 0.05
+      },
+      {
+        "cut_at_seconds": 53.03,
+        "silence_before_seconds": 0.63,
+        "silence_after_seconds": 0.07
+      },
+      {
+        "cut_at_seconds": 57.47,
+        "silence_before_seconds": 0.65,
+        "silence_after_seconds": 0.05
+      },
+      {
+        "cut_at_seconds": 62.0,
+        "silence_before_seconds": 0.64,
+        "silence_after_seconds": 0.06
+      }
+    ],
+    "worst_before": 0.67,
+    "worst_after": 0.07,
+    "note": "quiet is RMS < 0.002 on 20 ms windows; the scene pauses are 15 frames (0.5 s)"
+  },
+  "card_matching": {
+    "checked": 26,
+    "mismatches": [],
+    "matches": [
+      {
+        "frame": 8,
+        "expected": "nine-repos-01",
+        "matched": "nine-repos-01",
+        "best": 3.22,
+        "runner_up": 16.0,
+        "margin": 12.78
+      },
+      {
+        "frame": 74,
+        "expected": "nine-repos-01",
+        "matched": "nine-repos-01",
+        "best": 5.05,
+        "runner_up": 16.77,
+        "margin": 11.72
+      },
+      {
+        "frame": 156,
+        "expected": "nine-repos-02",
+        "matched": "nine-repos-02",
+        "best": 12.72,
+        "runner_up": 17.07,
+        "margin": 4.34
+      },
+      {
+        "frame": 216,
+        "expected": "nine-repos-02",
+        "matched": "nine-repos-02",
+        "best": 4.78,
+        "runner_up": 14.98,
+        "margin": 10.2
+      },
+      {
+        "frame": 292,
+        "expected": "nine-repos-03",
+        "matched": "nine-repos-03",
+        "best": 12.61,
+        "runner_up": 16.1,
+        "margin": 3.49
+      },
+      {
+        "frame": 367,
+        "expected": "nine-repos-03",
+        "matched": "nine-repos-03",
+        "best": 14.65,
+        "runner_up": 17.22,
+        "margin": 2.57
+      },
+      {
+        "frame": 459,
+        "expected": "nine-repos-04",
+        "matched": "nine-repos-04",
+        "best": 3.53,
+        "runner_up": 16.28,
+        "margin": 12.75
+      },
+      {
+        "frame": 538,
+        "expected": "nine-repos-04",
+        "matched": "nine-repos-04",
+        "best": 5.71,
+        "runner_up": 16.92,
+        "margin": 11.21
+      },
+      {
+        "frame": 633,
+        "expected": "nine-repos-05",
+        "matched": "nine-repos-05",
+        "best": 14.14,
+        "runner_up": 17.3,
+        "margin": 3.16
+      },
+      {
+        "frame": 707,
+        "expected": "nine-repos-05",
+        "matched": "nine-repos-05",
+        "best": 5.88,
+        "runner_up": 15.7,
+        "margin": 9.82
+      },
+      {
+        "frame": 797,
+        "expected": "nine-repos-06",
+        "matched": "nine-repos-06",
+        "best": 13.66,
+        "runner_up": 17.6,
+        "margin": 3.94
+      },
+      {
+        "frame": 866,
+        "expected": "nine-repos-06",
+        "matched": "nine-repos-06",
+        "best": 9.77,
+        "runner_up": 16.19,
+        "margin": 6.42
+      },
+      {
+        "frame": 951,
+        "expected": "nine-repos-07",
+        "matched": "nine-repos-07",
+        "best": 3.84,
+        "runner_up": 16.14,
+        "margin": 12.29
+      },
+      {
+        "frame": 1028,
+        "expected": "nine-repos-07",
+        "matched": "nine-repos-07",
+        "best": 6.39,
+        "runner_up": 16.56,
+        "margin": 10.17
+      },
+      {
+        "frame": 1121,
+        "expected": "nine-repos-08",
+        "matched": "nine-repos-08",
+        "best": 15.48,
+        "runner_up": 16.87,
+        "margin": 1.4
+      },
+      {
+        "frame": 1199,
+        "expected": "nine-repos-08",
+        "matched": "nine-repos-08",
+        "best": 5.41,
+        "runner_up": 14.45,
+        "margin": 9.05
+      },
+      {
+        "frame": 1293,
+        "expected": "nine-repos-09",
+        "matched": "nine-repos-09",
+        "best": 3.37,
+        "runner_up": 14.82,
+        "margin": 11.45
+      },
+      {
+        "frame": 1357,
+        "expected": "nine-repos-09",
+        "matched": "nine-repos-09",
+        "best": 5.48,
+        "runner_up": 15.5,
+        "margin": 10.01
+      },
+      {
+        "frame": 1437,
+        "expected": "nine-repos-10",
+        "matched": "nine-repos-10",
+        "best": 15.39,
+        "runner_up": 17.91,
+        "margin": 2.51
+      },
+      {
+        "frame": 1510,
+        "expected": "nine-repos-10",
+        "matched": "nine-repos-10",
+        "best": 5.58,
+        "runner_up": 14.89,
+        "margin": 9.31
+      },
+      {
+        "frame": 1599,
+        "expected": "nine-repos-11",
+        "matched": "nine-repos-11",
+        "best": 10.23,
+        "runner_up": 15.72,
+        "margin": 5.49
+      },
+      {
+        "frame": 1657,
+        "expected": "nine-repos-11",
+        "matched": "nine-repos-11",
+        "best": 12.52,
+        "runner_up": 15.42,
+        "margin": 2.9
+      },
+      {
+        "frame": 1732,
+        "expected": "nine-repos-12",
+        "matched": "nine-repos-12",
+        "best": 2.75,
+        "runner_up": 22.75,
+        "margin": 20.0
+      },
+      {
+        "frame": 1792,
+        "expected": "nine-repos-12",
+        "matched": "nine-repos-12",
+        "best": 3.44,
+        "runner_up": 23.03,
+        "margin": 19.59
+      },
+      {
+        "frame": 1868,
+        "expected": "nine-repos-13",
+        "matched": "nine-repos-13",
+        "best": 7.02,
+        "runner_up": 23.51,
+        "margin": 16.48
+      },
+      {
+        "frame": 1897,
+        "expected": "nine-repos-13",
+        "matched": "nine-repos-13",
+        "best": 3.89,
+        "runner_up": 23.39,
+        "margin": 19.5
+      }
+    ],
+    "min_margin": 1.4,
+    "note": "best-fit score over a +/-offset and 1.0-1.035 zoom grid; every scene frame must match its own card"
+  },
+  "layout": {
+    "checks": [
+      {
+        "scene": "nine-repos-01",
+        "frame": 74,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 6154,
+        "frame_stddev": 40.5
+      },
+      {
+        "scene": "nine-repos-02",
+        "frame": 216,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 12412,
+        "frame_stddev": 37.2
+      },
+      {
+        "scene": "nine-repos-03",
+        "frame": 367,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 13381,
+        "frame_stddev": 43.5
+      },
+      {
+        "scene": "nine-repos-04",
+        "frame": 538,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 12845,
+        "frame_stddev": 45.3
+      },
+      {
+        "scene": "nine-repos-05",
+        "frame": 707,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 12925,
+        "frame_stddev": 41.1
+      },
+      {
+        "scene": "nine-repos-06",
+        "frame": 866,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 13770,
+        "frame_stddev": 40.1
+      },
+      {
+        "scene": "nine-repos-07",
+        "frame": 1028,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 13182,
+        "frame_stddev": 45.2
+      },
+      {
+        "scene": "nine-repos-08",
+        "frame": 1199,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 11914,
+        "frame_stddev": 41.5
+      },
+      {
+        "scene": "nine-repos-09",
+        "frame": 1357,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 14039,
+        "frame_stddev": 42.2
+      },
+      {
+        "scene": "nine-repos-10",
+        "frame": 1510,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 13212,
+        "frame_stddev": 42.7
+      },
+      {
+        "scene": "nine-repos-11",
+        "frame": 1657,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 16042,
+        "frame_stddev": 42.1
+      },
+      {
+        "scene": "nine-repos-12",
+        "frame": 1792,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 18634,
+        "frame_stddev": 43.1
+      },
+      {
+        "scene": "nine-repos-13",
+        "frame": 1897,
+        "right_margin_pixels": 0,
+        "bottom_overlay_pixels": 0,
+        "accent_pixels": 7193,
+        "frame_stddev": 37.2
+      }
+    ],
+    "worst_right_margin": 0,
+    "worst_bottom_overlay": 0,
+    "least_accent": 6154,
+    "blank_frames": [],
+    "note": "right band is x>=945 of 1080 and bottom band is y>=1620 of 1920, i.e. the Shorts control and overlay zones; background tolerance 30/255"
+  },
+  "captions": {
+    "checks": [
+      {
+        "scene": "nine-repos-01",
+        "caption": "Nine repositories worth a closer look.",
+        "masked_pixels": 9219,
+        "mae": 6.81,
+        "control_mae": 118.54,
+        "control_text": "ECC packages skills, agents, and hooks."
+      },
+      {
+        "scene": "nine-repos-02",
+        "caption": "ECC packages skills, agents, and hooks.",
+        "masked_pixels": 10341,
+        "mae": 6.94,
+        "control_mae": 147.13,
+        "control_text": "CLI-Anything turns desktop software into command-line tools."
+      },
+      {
+        "scene": "nine-repos-03",
+        "caption": "CLI-Anything turns desktop software into command-line tools.",
+        "masked_pixels": 15726,
+        "mae": 6.69,
+        "control_mae": 116.43,
+        "control_text": "Screenshot-to-code turns reference images into web layouts."
+      },
+      {
+        "scene": "nine-repos-04",
+        "caption": "Screenshot-to-code turns reference images into web layouts.",
+        "masked_pixels": 15079,
+        "mae": 6.79,
+        "control_mae": 137.98,
+        "control_text": "ScrapeGraphAI extracts web data from prompts."
+      },
+      {
+        "scene": "nine-repos-05",
+        "caption": "ScrapeGraphAI extracts web data from prompts.",
+        "masked_pixels": 12410,
+        "mae": 6.73,
+        "control_mae": 122.69,
+        "control_text": "Google Skills adds agent skills for cloud and developer workflows."
+      },
+      {
+        "scene": "nine-repos-06",
+        "caption": "Google Skills adds agent skills for cloud and developer workflows.",
+        "masked_pixels": 17358,
+        "mae": 6.89,
+        "control_mae": 133.11,
+        "control_text": "DeepSeek Harness is a plugin-based agent framework."
+      },
+      {
+        "scene": "nine-repos-07",
+        "caption": "DeepSeek Harness is a plugin-based agent framework.",
+        "masked_pixels": 14158,
+        "mae": 6.7,
+        "control_mae": 132.19,
+        "control_text": "Humanizer rewrites prose that sounds AI-generated."
+      },
+      {
+        "scene": "nine-repos-08",
+        "caption": "Humanizer rewrites prose that sounds AI-generated.",
+        "masked_pixels": 13245,
+        "mae": 6.71,
+        "control_mae": 112.88,
+        "control_text": "Stop Slop adds writing rules and a rubric for reviewing prose."
+      },
+      {
+        "scene": "nine-repos-09",
+        "caption": "Stop Slop adds writing rules and a rubric for reviewing prose.",
+        "masked_pixels": 15387,
+        "mae": 6.75,
+        "control_mae": 125.51,
+        "control_text": "OmniRoute routes requests across model providers."
+      },
+      {
+        "scene": "nine-repos-10",
+        "caption": "OmniRoute routes requests across model providers.",
+        "masked_pixels": 13000,
+        "mae": 6.87,
+        "control_mae": 121.44,
+        "control_text": "The pattern? More tools are now packaged for agents to use."
+      },
+      {
+        "scene": "nine-repos-11",
+        "caption": "The pattern? More tools are now packaged for agents to use.",
+        "masked_pixels": 14897,
+        "mae": 6.76,
+        "control_mae": 133.38,
+        "control_text": "Pick what fits your workflow. Read the README first."
+      },
+      {
+        "scene": "nine-repos-12",
+        "caption": "Pick what fits your workflow. Read the README first.",
+        "masked_pixels": 13662,
+        "mae": 6.66,
+        "control_mae": 172.86,
+        "control_text": "Subscribe for more content."
+      },
+      {
+        "scene": "nine-repos-13",
+        "caption": "Subscribe for more content.",
+        "masked_pixels": 6832,
+        "mae": 6.68,
+        "control_mae": 117.61,
+        "control_text": "Nine repositories worth a closer look."
+      }
+    ],
+    "worst_mae": 6.94,
+    "note": "mae is measured only on pixels the caption renderer marks opaque; control_mae uses the next scene's caption as a wrong-text test"
+  },
+  "contact_sheet": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/output/nine-repositories-short/review/contact-sheet-final.png"
+}

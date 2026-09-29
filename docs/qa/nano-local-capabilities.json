@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "provider": "chrome-gemini-nano",
+  "inference": "on-device",
+  "started_at": "2026-09-22T09:34:49.403Z",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+  "origin": "http://127.0.0.1:8769",
+  "capabilities": {
+    "english_text": "available",
+    "indonesian_text": "unavailable",
+    "english_image": "available",
+    "english_audio": "unavailable"
+  },
+  "results": [
+    {
+      "name": "Pemeriksaan kemampuan",
+      "at": "2026-09-22T09:34:55.848Z",
+      "note": "Availability only; unsupported options do not trigger inference.",
+      "status": "passed",
+      "elapsed_ms": 32.6
+    },
+    {
+      "name": "Inference English cold + warm",
+      "at": "2026-09-22T09:35:22.250Z",
+      "session_create_ms": 2.8,
+      "samples": [
+        {
+          "kind": "cold_session",
+          "prompt_ms": 20480.1,
+          "validated": {
+            "ideas": [
+              {
+                "title": "SwiftUI Layout: Stack Views",
+                "hook": "Master stacks and arrange views effectively with simple SwiftUI examples."
+              },
+              {
+                "title": "SwiftUI Lists: Display Data Gracefully",
+                "hook": "Learn to create user interfaces displaying dynamic lists using SwiftUI\u2019s built-in functionality."
+              },
+              {
+                "title": "SwiftUI Images: Showcase Visuals Smoothly",
+                "hook": "Discover how to use SwiftUI's image views for compelling visual presentation."
+              }
+            ]
+          }
+        },
+        {
+          "kind": "warm_session",
+          "prompt_ms": 50172.5,
+          "validated": {
+            "ideas": [
+              {
+                "title": "SwiftUI Text Styling",
+                "hook": "Explore different ways to style text in SwiftUI, including fonts, sizes, and colors."
+              },
+              {
+                "title": "SwiftUI Modifiers: Quick Enhancements",
+                "hook": "Discover SwiftUI modifiers to easily add visual flair and functionality to your views."
+              },
+              {
+                "title": "SwiftUI Images & Alignment",
+                "hook": "Learn how to display and align images effectively within SwiftUI layouts."
+              }
+            ]
+          }
+        }
+      ],
+      "playback": {
+        "initially_playing": true,
+        "initial_media_time": 4.639827,
+        "final_media_time": 14.944895,
+        "wall_ms": 70657.2,
+        "max_main_thread_tick_gap_ms": 101.9,
+        "events": [
+          {
+            "name": "waiting",
+            "at_ms": 58576.39999985695,
+            "media_time": 0
+          },
+          {
+            "name": "playing",
+            "at_ms": 58605.799999952316,
+            "media_time": 0
+          },
+          {
+            "name": "waiting",
+            "at_ms": 88762.89999985695,
+            "media_time": 0
+          },
+          {
+            "name": "playing",
+            "at_ms": 88776,
+            "media_time": 0
+          }
+        ],
+        "note": "Looping media may end at an earlier timestamp. This is not an audible-quality assertion."
+      },
+      "note": "Cold means first prompt in a new session, not first process launch or model download.",
+      "status": "passed",
+      "elapsed_ms": 70664.1
+    },
+    {
+      "name": "Pembatalan inference",
+      "at": "2026-09-22T09:37:41.183Z",
+      "cancellation": {
+        "name": "AbortError",
+        "message": "Test cancellation"
+      },
+      "recovery_validated": {
+        "ideas": [
+          {
+            "title": "SwiftUI Labels & Text",
+            "hook": "Learn how to create dynamic text displays with SwiftUI's Labels, perfect for showing user-generated content!"
+          },
+          {
+            "title": "Lists & ScrollViews",
+            "hook": "Build interactive scrollable lists to showcase data, easily accessible using SwiftUI's List and ScrollView."
+          },
+          {
+            "title": "Button Actions & Alerts",
+            "hook": "Discover how to handle user interactions with SwiftUI\u2019s Buttons and display confirmations or errors with Alerts!"
+          }
+        ]
+      },
+      "total_ms": 21887,
+      "status": "passed",
+      "elapsed_ms": 21925.3
+    }
+  ],
+  "limitations": [
+    "No native Mac bridge is exercised by this standalone page.",
+    "Browser playback measurements do not prove audible Mac app playback quality.",
+    "No OS-wide network audit or offline test has been performed by this page."
+  ],
+  "recorded_at": "2026-09-22T09:38:03.150858+00:00"
+}

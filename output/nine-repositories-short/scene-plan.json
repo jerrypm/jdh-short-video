@@ -1,0 +1,227 @@
+[
+  {
+    "id": "nine-repos-01",
+    "kind": "hook",
+    "crops": [
+      "hook-title"
+    ],
+    "page": 1,
+    "number": "9",
+    "title": "REPOSITORIES",
+    "header_right": "SEP 6, 2026",
+    "benefit": "Worth a closer look. One point each.",
+    "name": "Hook",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "narration": "Nine repositories worth a closer look. One clear point each.",
+    "caption": "Nine repositories worth a closer look."
+  },
+  {
+    "id": "nine-repos-02",
+    "kind": "repo",
+    "crops": [
+      "ecc-head",
+      "ecc-slug"
+    ],
+    "page": 2,
+    "number": "01",
+    "title": "ECC",
+    "header_right": "1 / 9",
+    "benefit": "Packaged skills, agents, and hooks. Choose selectively.",
+    "name": "ECC",
+    "fit": "fill",
+    "motion": "zoom_out",
+    "narration": "ECC packages skills, agents, and hooks. Start small.",
+    "caption": "ECC packages skills, agents, and hooks."
+  },
+  {
+    "id": "nine-repos-03",
+    "kind": "repo",
+    "crops": [
+      "cli-anything-head",
+      "cli-anything-slug"
+    ],
+    "page": 3,
+    "number": "02",
+    "title": "CLI-Anything",
+    "header_right": "2 / 9",
+    "benefit": "Generates command-line tools agents can drive.",
+    "name": "CLI-Anything",
+    "fit": "fill",
+    "motion": "pan_right",
+    "narration": "CLI-Anything turns desktop software into command-line tools for agents.",
+    "caption": "CLI-Anything turns desktop software into command-line tools."
+  },
+  {
+    "id": "nine-repos-04",
+    "kind": "repo",
+    "crops": [
+      "screenshot-to-code-head",
+      "screenshot-to-code-slug"
+    ],
+    "page": 5,
+    "number": "03",
+    "title": "Screenshot-to-code",
+    "header_right": "3 / 9",
+    "benefit": "Converts reference images into web layouts.",
+    "name": "Screenshot-to-code",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "narration": "Screenshot-to-code turns reference images into web layouts. A first pass.",
+    "caption": "Screenshot-to-code turns reference images into web layouts."
+  },
+  {
+    "id": "nine-repos-05",
+    "kind": "repo",
+    "crops": [
+      "scrapegraphai-head",
+      "scrapegraphai-slug"
+    ],
+    "page": 6,
+    "number": "04",
+    "title": "ScrapeGraphAI",
+    "header_right": "4 / 9",
+    "benefit": "Prompt-driven extraction of web data.",
+    "name": "ScrapeGraphAI",
+    "fit": "fill",
+    "motion": "zoom_out",
+    "narration": "ScrapeGraphAI extracts web data from prompts, not brittle selectors.",
+    "caption": "ScrapeGraphAI extracts web data from prompts."
+  },
+  {
+    "id": "nine-repos-06",
+    "kind": "repo",
+    "crops": [
+      "google-skills"
+    ],
+    "page": 9,
+    "number": "05",
+    "title": "Google Skills",
+    "header_right": "5 / 9",
+    "benefit": "Agent skills for cloud and developer workflows.",
+    "name": "Google Skills",
+    "fit": "fill",
+    "motion": "pan_left",
+    "narration": "Google Skills adds agent skills for cloud and developer workflows.",
+    "caption": "Google Skills adds agent skills for cloud and developer workflows."
+  },
+  {
+    "id": "nine-repos-07",
+    "kind": "repo",
+    "crops": [
+      "deepseek-harness-head",
+      "deepseek-harness-slug"
+    ],
+    "page": 9,
+    "number": "06",
+    "title": "DeepSeek Harness",
+    "header_right": "6 / 9",
+    "benefit": "A plugin-based agent framework. Listed as a developer preview.",
+    "name": "DeepSeek Harness",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "narration": "DeepSeek Harness is a plugin-based agent framework. A developer preview.",
+    "caption": "DeepSeek Harness is a plugin-based agent framework."
+  },
+  {
+    "id": "nine-repos-08",
+    "kind": "repo",
+    "crops": [
+      "humanizer-head",
+      "humanizer-slug"
+    ],
+    "page": 11,
+    "number": "07",
+    "title": "Humanizer",
+    "header_right": "7 / 9",
+    "benefit": "Rewrites AI-style prose while preserving code and data.",
+    "name": "Humanizer",
+    "fit": "fill",
+    "motion": "zoom_out",
+    "narration": "Humanizer rewrites prose that sounds AI-generated, but leaves code alone.",
+    "caption": "Humanizer rewrites prose that sounds AI-generated."
+  },
+  {
+    "id": "nine-repos-09",
+    "kind": "repo",
+    "crops": [
+      "stop-slop-head",
+      "stop-slop-slug"
+    ],
+    "page": 12,
+    "number": "08",
+    "title": "Stop Slop",
+    "header_right": "8 / 9",
+    "benefit": "Writing rules plus a rubric for reviewing prose.",
+    "name": "Stop Slop",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "narration": "Stop Slop adds writing rules and a rubric for reviewing prose.",
+    "caption": "Stop Slop adds writing rules and a rubric for reviewing prose."
+  },
+  {
+    "id": "nine-repos-10",
+    "kind": "repo",
+    "crops": [
+      "omniroute-head",
+      "omniroute-slug"
+    ],
+    "page": 13,
+    "number": "09",
+    "title": "OmniRoute",
+    "header_right": "9 / 9",
+    "benefit": "Routes requests across model providers.",
+    "name": "OmniRoute",
+    "fit": "fill",
+    "motion": "zoom_out",
+    "narration": "OmniRoute routes requests across model providers behind a single endpoint.",
+    "caption": "OmniRoute routes requests across model providers."
+  },
+  {
+    "id": "nine-repos-11",
+    "kind": "pattern",
+    "crops": [
+      "pattern"
+    ],
+    "page": 13,
+    "number": "6/9",
+    "title": "AGENT SKILLS",
+    "header_right": "THE PATTERN",
+    "benefit": "Six of nine install as something you hand to an agent.",
+    "name": "The pattern",
+    "fit": "fill",
+    "motion": "pan_right",
+    "narration": "The pattern? More tools are now packaged for agents to use.",
+    "caption": "The pattern? More tools are now packaged for agents to use."
+  },
+  {
+    "id": "nine-repos-12",
+    "kind": "advice",
+    "crops": null,
+    "page": null,
+    "number": "",
+    "title": null,
+    "header_right": "BEFORE YOU INSTALL",
+    "benefit": null,
+    "name": "Read the README",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "narration": "Pick what fits your workflow, and read the README first.",
+    "caption": "Pick what fits your workflow. Read the README first."
+  },
+  {
+    "id": "nine-repos-13",
+    "kind": "cta",
+    "crops": null,
+    "page": null,
+    "number": "",
+    "title": null,
+    "header_right": "JRDEVHUB",
+    "benefit": null,
+    "name": "Subscribe",
+    "fit": "fill",
+    "motion": "zoom_out",
+    "narration": "Subscribe for more content.",
+    "caption": "Subscribe for more content."
+  }
+]

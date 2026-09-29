@@ -1,0 +1,20 @@
+{
+  "app": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/dist/JDH Shorts Studio.app",
+  "isolated_data": true,
+  "real_nano_inference": false,
+  "checks": [
+    "empty catalog",
+    "explicit opt-in",
+    "QA and duplicate separation",
+    "profile and labels",
+    "feedback",
+    "source revision refresh",
+    "conflict rejection",
+    "bounded local retrieval",
+    "bundled sidecar restart",
+    "forget invalidates retrieval",
+    "project and media preserved",
+    "EOF shutdown"
+  ],
+  "passed": true
+}

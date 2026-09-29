@@ -1,0 +1,27 @@
+{
+  "title": "Moving My Game from Three.js to Godot | Heartwoodfall Devlog",
+  "description": "I'm rebuilding Heartwoodfall in Godot while keeping the original Three.js project as a reference. Claude helped with character movement; the old design still guides the next build. Some 3D assets may be reusable, but that still needs to be tested.\n\nBased on my Medium article: Heartwoodfall part III: Combine Two Tools.\nMore devlogs: https://medium.com/@21zerixpm\n\nArticle screenshots and animated typography; not live gameplay footage. English narration made with local Kokoro. Edited and rendered locally in JDH Shorts Studio.\n\n#Godot #GameDev #Devlog #Threejs #Claude",
+  "language": "en",
+  "project_revision": 22,
+  "preset": "draft",
+  "upload_method": "manual",
+  "verification": {
+    "verified_file": true,
+    "full_decode_passed": true,
+    "width": 360,
+    "height": 640,
+    "fps": 30.0,
+    "frames": 1339,
+    "container_seconds": 44.633008,
+    "audio": {
+      "seconds": 44.650666666666666,
+      "peak_dbfs": -7.536,
+      "near_full_scale_samples": 0,
+      "at_full_scale_samples": 0,
+      "long_silences": [],
+      "sample_rate": 48000,
+      "window_ms": 10
+    },
+    "sample_peak_only": true
+  }
+}

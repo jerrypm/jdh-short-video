@@ -1,0 +1,15 @@
+{
+  "videoId": "0Mnw2XKuMqg",
+  "url": "https://youtube.com/shorts/0Mnw2XKuMqg",
+  "channelId": "UCRig_f5P4QyB_kilUs2PN8Q",
+  "channelName": "JR DEV | SWIFT | FLUTTER",
+  "title": "Moving My Game from Three.js to Godot | Heartwoodfall Devlog",
+  "description": "I'm moving Heartwoodfall from Three.js to Godot — rebuilding the code while keeping the original project's visual direction.\n\nRead the full devlog on Medium:\nhttps://medium.com/@21zerixpm/godot-claude-opuse-5-5-a583f14a39fa\n\nClaude helped me fix character movement. Now the original project guides the characters, environments, and interface for the Godot rebuild. Some 3D assets may carry over, but reuse still needs testing.\n\nSubscribe for more game development content.\n\nArticle screenshots and animated typography; not live gameplay footage. English narration made with local Kokoro. Edited and rendered in JDH Shorts Studio.\n\n#Godot #GameDev #Devlog #Threejs #Claude",
+  "visibility": "public",
+  "publishedDateShown": "2026-09-28",
+  "publicationEvidence": "YouTube Studio confirmation: Video published",
+  "copyrightCheckLastObserved": "In progress (38%) at publication",
+  "aiDisclosure": true,
+  "sourceFile": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/output/heartwoodfall-first-short/final/final.mp4",
+  "screenshot": "youtube-published.png"
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-24",
+  "version": "0.2.5",
+  "build": "7",
+  "isolated_qa": true,
+  "fixture_label": "QA FIXTURE",
+  "real_nano_inference": false,
+  "checks": [
+    "three dated daily-idea cards visible",
+    "choose destination project from idea",
+    "open review without changing project",
+    "generation progress shown",
+    "edit caption",
+    "select only one scene",
+    "review summary and missing media",
+    "editing invalidates review",
+    "explicit confirmation enables apply",
+    "one scene and edited caption applied",
+    "native Undo restores original script and zero scenes",
+    "native Redo restores reviewed scene",
+    "close second proposal leaves project unchanged",
+    "persisted result matches UI"
+  ],
+  "passed": true,
+  "live_chrome_attempt": "ERR_BLOCKED_BY_CLIENT on /nano/; no security settings changed; created tab closed"
+}

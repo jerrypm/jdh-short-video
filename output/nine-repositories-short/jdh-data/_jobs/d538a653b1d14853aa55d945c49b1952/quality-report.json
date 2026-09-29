@@ -1,0 +1,299 @@
+{
+  "id": "d538a653b1d14853aa55d945c49b1952",
+  "project_id": "934dfea9934d40699be44999e3827113",
+  "base_revision": 69,
+  "origin": "measured-local",
+  "settings": {
+    "long_silence_seconds": 1.5,
+    "silence_dbfs": -40.0,
+    "peak_warning_dbfs": -0.1,
+    "caption_cps": 20.0
+  },
+  "preset": "draft",
+  "output": {
+    "width": 360,
+    "height": 640,
+    "fps": 30,
+    "frames": 1934,
+    "seconds": 64.46666666666667,
+    "verified_file": false
+  },
+  "findings": [],
+  "rows": [
+    {
+      "scene_id": "nine-repos-01",
+      "name": "Hook",
+      "start_frame": 0,
+      "end_frame": 148,
+      "duration": 148,
+      "minimum_frames": 133,
+      "audio": {
+        "seconds": 4.43,
+        "peak_dbfs": -3.407,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Nine repositories worth a closer look.",
+      "suggested_duration": 148,
+      "suggested_caption": "Nine repositories worth a closer look."
+    },
+    {
+      "scene_id": "nine-repos-02",
+      "name": "ECC",
+      "start_frame": 148,
+      "end_frame": 284,
+      "duration": 136,
+      "minimum_frames": 121,
+      "audio": {
+        "seconds": 4.03,
+        "peak_dbfs": -3.384,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "ECC packages skills, agents, and hooks.",
+      "suggested_duration": 136,
+      "suggested_caption": "ECC packages skills,\nagents, and hooks."
+    },
+    {
+      "scene_id": "nine-repos-03",
+      "name": "CLI-Anything",
+      "start_frame": 284,
+      "end_frame": 451,
+      "duration": 167,
+      "minimum_frames": 152,
+      "audio": {
+        "seconds": 5.05,
+        "peak_dbfs": -3.41,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "CLI-Anything turns desktop software into command-line tools.",
+      "suggested_duration": 167,
+      "suggested_caption": "CLI-Anything turns desktop\nsoftware into command-line tools."
+    },
+    {
+      "scene_id": "nine-repos-04",
+      "name": "Screenshot-to-code",
+      "start_frame": 451,
+      "end_frame": 625,
+      "duration": 174,
+      "minimum_frames": 159,
+      "audio": {
+        "seconds": 5.27,
+        "peak_dbfs": -3.41,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Screenshot-to-code turns reference images into web layouts.",
+      "suggested_duration": 174,
+      "suggested_caption": "Screenshot-to-code turns\nreference images into web layouts."
+    },
+    {
+      "scene_id": "nine-repos-05",
+      "name": "ScrapeGraphAI",
+      "start_frame": 625,
+      "end_frame": 789,
+      "duration": 164,
+      "minimum_frames": 149,
+      "audio": {
+        "seconds": 4.95,
+        "peak_dbfs": -3.402,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "ScrapeGraphAI extracts web data from prompts.",
+      "suggested_duration": 164,
+      "suggested_caption": "ScrapeGraphAI extracts\nweb data from prompts."
+    },
+    {
+      "scene_id": "nine-repos-06",
+      "name": "Google Skills",
+      "start_frame": 789,
+      "end_frame": 943,
+      "duration": 154,
+      "minimum_frames": 139,
+      "audio": {
+        "seconds": 4.61,
+        "peak_dbfs": -3.41,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Google Skills adds agent skills for cloud and developer workflows.",
+      "suggested_duration": 154,
+      "suggested_caption": "Google Skills adds agent skills for\ncloud and developer workflows."
+    },
+    {
+      "scene_id": "nine-repos-07",
+      "name": "DeepSeek Harness",
+      "start_frame": 943,
+      "end_frame": 1113,
+      "duration": 170,
+      "minimum_frames": 155,
+      "audio": {
+        "seconds": 5.15,
+        "peak_dbfs": -3.403,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "DeepSeek Harness is a plugin-based agent framework.",
+      "suggested_duration": 170,
+      "suggested_caption": "DeepSeek Harness is a\nplugin-based agent framework."
+    },
+    {
+      "scene_id": "nine-repos-08",
+      "name": "Humanizer",
+      "start_frame": 1113,
+      "end_frame": 1285,
+      "duration": 172,
+      "minimum_frames": 157,
+      "audio": {
+        "seconds": 5.23,
+        "peak_dbfs": -3.41,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Humanizer rewrites prose that sounds AI-generated.",
+      "suggested_duration": 172,
+      "suggested_caption": "Humanizer rewrites prose\nthat sounds AI-generated."
+    },
+    {
+      "scene_id": "nine-repos-09",
+      "name": "Stop Slop",
+      "start_frame": 1285,
+      "end_frame": 1429,
+      "duration": 144,
+      "minimum_frames": 129,
+      "audio": {
+        "seconds": 4.29,
+        "peak_dbfs": -3.41,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Stop Slop adds writing rules and a rubric for reviewing prose.",
+      "suggested_duration": 144,
+      "suggested_caption": "Stop Slop adds writing rules and\na rubric for reviewing prose."
+    },
+    {
+      "scene_id": "nine-repos-10",
+      "name": "OmniRoute",
+      "start_frame": 1429,
+      "end_frame": 1591,
+      "duration": 162,
+      "minimum_frames": 147,
+      "audio": {
+        "seconds": 4.89,
+        "peak_dbfs": -3.411,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "OmniRoute routes requests across model providers.",
+      "suggested_duration": 162,
+      "suggested_caption": "OmniRoute routes requests\nacross model providers."
+    },
+    {
+      "scene_id": "nine-repos-11",
+      "name": "The pattern",
+      "start_frame": 1591,
+      "end_frame": 1724,
+      "duration": 133,
+      "minimum_frames": 118,
+      "audio": {
+        "seconds": 3.93,
+        "peak_dbfs": -3.41,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "The pattern? More tools are now packaged for agents to use.",
+      "suggested_duration": 133,
+      "suggested_caption": "The pattern? More tools are\nnow packaged for agents to use."
+    },
+    {
+      "scene_id": "nine-repos-12",
+      "name": "Read the README",
+      "start_frame": 1724,
+      "end_frame": 1860,
+      "duration": 136,
+      "minimum_frames": 121,
+      "audio": {
+        "seconds": 4.03,
+        "peak_dbfs": -3.407,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Pick what fits your workflow. Read the README first.",
+      "suggested_duration": 136,
+      "suggested_caption": "Pick what fits your workflow.\nRead the README first."
+    },
+    {
+      "scene_id": "nine-repos-13",
+      "name": "Subscribe",
+      "start_frame": 1860,
+      "end_frame": 1934,
+      "duration": 74,
+      "minimum_frames": 54,
+      "audio": {
+        "seconds": 1.79,
+        "peak_dbfs": -3.426,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Subscribe for more content.",
+      "suggested_duration": 74,
+      "suggested_caption": "Subscribe for more content."
+    }
+  ],
+  "mix": {
+    "seconds": 64.46666666666667,
+    "peak_dbfs": -3.384,
+    "near_full_scale_samples": 0,
+    "at_full_scale_samples": 0,
+    "long_silences": [],
+    "sample_rate": 48000,
+    "window_ms": 10
+  },
+  "limitations": [
+    "Puncak sampel, bukan true peak/LUFS atau bukti distorsi.",
+    "Deteksi jeda berdasarkan level, bukan pengenalan kata.",
+    "Overlap memakai bounding box semua frame, bukan penilaian estetika.",
+    "Dimensi/durasi rencana diverifikasi lagi pada file hasil ekspor."
+  ]
+}

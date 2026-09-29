@@ -1,0 +1,920 @@
+[
+  {
+    "id": "hook-title",
+    "page": 1,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      240.27,
+      520.54,
+      364.7
+    ],
+    "rect_pixels": [
+      136,
+      959,
+      2211,
+      1561
+    ],
+    "size": [
+      2075,
+      602
+    ],
+    "lines": 4,
+    "source_text_height_px": 166.9,
+    "words": "9 Cool Repositories I Found on the Internet This Week Jerry PM 7 min read \u00b7 Sep 6, 2026",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "ecc",
+    "page": 2,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      735.8,
+      232.98,
+      788.77
+    ],
+    "rect_pixels": [
+      136,
+      3024,
+      1012,
+      3328
+    ],
+    "size": [
+      876,
+      304
+    ],
+    "lines": 3,
+    "source_text_height_px": 100.5,
+    "words": "1. ECC \u279e the maximalist affaan-m/ECC",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "ecc-head",
+    "page": 2,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      735.8,
+      232.98,
+      760.99
+    ],
+    "rect_pixels": [
+      136,
+      3024,
+      1012,
+      3212
+    ],
+    "size": [
+      876,
+      188
+    ],
+    "lines": 2,
+    "source_text_height_px": 100.5,
+    "words": "1. ECC \u279e the maximalist",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "ecc-slug",
+    "page": 2,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      769.99,
+      136.93,
+      788.77
+    ],
+    "rect_pixels": [
+      136,
+      3167,
+      612,
+      3328
+    ],
+    "size": [
+      476,
+      161
+    ],
+    "lines": 1,
+    "source_text_height_px": 78.2,
+    "words": "affaan-m/ECC",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "cli-anything",
+    "page": 3,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      768.05,
+      364.61,
+      821.02
+    ],
+    "rect_pixels": [
+      136,
+      3159,
+      1561,
+      3463
+    ],
+    "size": [
+      1425,
+      304
+    ],
+    "lines": 3,
+    "source_text_height_px": 100.5,
+    "words": "2. CLI-Anything \u279e the one I didn\u2019t expect HKUDS/CLI-Anything",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "cli-anything-head",
+    "page": 3,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      768.05,
+      364.61,
+      793.24
+    ],
+    "rect_pixels": [
+      136,
+      3159,
+      1561,
+      3347
+    ],
+    "size": [
+      1425,
+      188
+    ],
+    "lines": 2,
+    "source_text_height_px": 100.5,
+    "words": "2. CLI-Anything \u279e the one I didn\u2019t expect",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "cli-anything-slug",
+    "page": 3,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      802.24,
+      188.76,
+      821.02
+    ],
+    "rect_pixels": [
+      136,
+      3301,
+      828,
+      3463
+    ],
+    "size": [
+      692,
+      162
+    ],
+    "lines": 1,
+    "source_text_height_px": 78.2,
+    "words": "HKUDS/CLI-Anything",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "screenshot-to-code",
+    "page": 5,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      366.8,
+      333.15,
+      419.77
+    ],
+    "rect_pixels": [
+      136,
+      1487,
+      1430,
+      1791
+    ],
+    "size": [
+      1294,
+      304
+    ],
+    "lines": 3,
+    "source_text_height_px": 100.5,
+    "words": "3. screenshot-to-code \u279e the veteran abi/screenshot-to-code",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "screenshot-to-code-head",
+    "page": 5,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      366.8,
+      333.15,
+      391.99
+    ],
+    "rect_pixels": [
+      136,
+      1487,
+      1430,
+      1675
+    ],
+    "size": [
+      1294,
+      188
+    ],
+    "lines": 2,
+    "source_text_height_px": 100.5,
+    "words": "3. screenshot-to-code \u279e the veteran",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "screenshot-to-code-slug",
+    "page": 5,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      400.99,
+      197.74,
+      419.77
+    ],
+    "rect_pixels": [
+      136,
+      1629,
+      866,
+      1791
+    ],
+    "size": [
+      730,
+      162
+    ],
+    "lines": 1,
+    "source_text_height_px": 78.3,
+    "words": "abi/screenshot-to-code",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "scrapegraphai",
+    "page": 6,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      471.8,
+      473.22,
+      525.52
+    ],
+    "rect_pixels": [
+      136,
+      1924,
+      2013,
+      2231
+    ],
+    "size": [
+      1877,
+      307
+    ],
+    "lines": 3,
+    "source_text_height_px": 100.5,
+    "words": "4. ScrapeGraphAI \u279e scraping that survives a redesign ScrapeGraphAI/Scrapegraph-ai",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "scrapegraphai-head",
+    "page": 6,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      471.8,
+      473.22,
+      496.99
+    ],
+    "rect_pixels": [
+      136,
+      1924,
+      2013,
+      2112
+    ],
+    "size": [
+      1877,
+      188
+    ],
+    "lines": 2,
+    "source_text_height_px": 100.5,
+    "words": "4. ScrapeGraphAI \u279e scraping that survives a redesign",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "scrapegraphai-slug",
+    "page": 6,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      506.74,
+      253.68,
+      525.52
+    ],
+    "rect_pixels": [
+      136,
+      2070,
+      1099,
+      2231
+    ],
+    "size": [
+      963,
+      161
+    ],
+    "lines": 1,
+    "source_text_height_px": 78.2,
+    "words": "ScrapeGraphAI/Scrapegraph-ai",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "google-skills",
+    "page": 9,
+    "dpi": 300,
+    "rect_points": [
+      67.5,
+      105.93,
+      237.66,
+      119.11
+    ],
+    "rect_pixels": [
+      240,
+      400,
+      1032,
+      538
+    ],
+    "size": [
+      792,
+      138
+    ],
+    "lines": 1,
+    "source_text_height_px": 54.9,
+    "words": "npx skills add google/skills",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "deepseek-harness",
+    "page": 9,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      523.55,
+      444.77,
+      576.52
+    ],
+    "rect_pixels": [
+      136,
+      2140,
+      1895,
+      2444
+    ],
+    "size": [
+      1759,
+      304
+    ],
+    "lines": 3,
+    "source_text_height_px": 100.5,
+    "words": "6. DeepSeek Harness \u279e the one to watch, carefully deepseek-ai/deepseek-harness",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "deepseek-harness-head",
+    "page": 9,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      523.55,
+      444.77,
+      548.74
+    ],
+    "rect_pixels": [
+      136,
+      2140,
+      1895,
+      2328
+    ],
+    "size": [
+      1759,
+      188
+    ],
+    "lines": 2,
+    "source_text_height_px": 100.5,
+    "words": "6. DeepSeek Harness \u279e the one to watch, carefully",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "deepseek-harness-slug",
+    "page": 9,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      557.74,
+      248.07,
+      576.52
+    ],
+    "rect_pixels": [
+      136,
+      2282,
+      1075,
+      2444
+    ],
+    "size": [
+      939,
+      162
+    ],
+    "lines": 1,
+    "source_text_height_px": 78.2,
+    "words": "deepseek-ai/deepseek-harness",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "humanizer",
+    "page": 11,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      125.3,
+      262.77,
+      178.27
+    ],
+    "rect_pixels": [
+      136,
+      480,
+      1137,
+      784
+    ],
+    "size": [
+      1001,
+      304
+    ],
+    "lines": 3,
+    "source_text_height_px": 100.5,
+    "words": "7. Humanizer \u279e 35 patterns blader/humanizer",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "humanizer-head",
+    "page": 11,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      125.3,
+      262.77,
+      150.49
+    ],
+    "rect_pixels": [
+      136,
+      480,
+      1137,
+      669
+    ],
+    "size": [
+      1001,
+      189
+    ],
+    "lines": 2,
+    "source_text_height_px": 100.5,
+    "words": "7. Humanizer \u279e 35 patterns",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "humanizer-slug",
+    "page": 11,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      159.49,
+      165.07,
+      178.27
+    ],
+    "rect_pixels": [
+      136,
+      623,
+      729,
+      784
+    ],
+    "size": [
+      593,
+      161
+    ],
+    "lines": 1,
+    "source_text_height_px": 78.3,
+    "words": "blader/humanizer",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "stop-slop",
+    "page": 12,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      60.05,
+      418.32,
+      113.02
+    ],
+    "rect_pixels": [
+      136,
+      209,
+      1785,
+      513
+    ],
+    "size": [
+      1649,
+      304
+    ],
+    "lines": 3,
+    "source_text_height_px": 100.5,
+    "words": "8. Stop Slop \u279e same problem, different method hardikpandya/stop-slop",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "stop-slop-head",
+    "page": 12,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      60.05,
+      418.32,
+      85.24
+    ],
+    "rect_pixels": [
+      136,
+      209,
+      1785,
+      397
+    ],
+    "size": [
+      1649,
+      188
+    ],
+    "lines": 2,
+    "source_text_height_px": 100.5,
+    "words": "8. Stop Slop \u279e same problem, different method",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "stop-slop-slug",
+    "page": 12,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      94.24,
+      203.5,
+      113.02
+    ],
+    "rect_pixels": [
+      136,
+      351,
+      890,
+      513
+    ],
+    "size": [
+      754,
+      162
+    ],
+    "lines": 1,
+    "source_text_height_px": 78.2,
+    "words": "hardikpandya/stop-slop",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "omniroute",
+    "page": 13,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      242.3,
+      280.86,
+      295.27
+    ],
+    "rect_pixels": [
+      136,
+      968,
+      1212,
+      1272
+    ],
+    "size": [
+      1076,
+      304
+    ],
+    "lines": 3,
+    "source_text_height_px": 100.5,
+    "words": "9. OmniRoute \u279e the plumbing diegosouzapw/OmniRoute",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "omniroute-head",
+    "page": 13,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      242.3,
+      280.86,
+      267.49
+    ],
+    "rect_pixels": [
+      136,
+      968,
+      1212,
+      1156
+    ],
+    "size": [
+      1076,
+      188
+    ],
+    "lines": 2,
+    "source_text_height_px": 100.5,
+    "words": "9. OmniRoute \u279e the plumbing",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "omniroute-slug",
+    "page": 13,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      276.49,
+      219.99,
+      295.27
+    ],
+    "rect_pixels": [
+      136,
+      1110,
+      958,
+      1272
+    ],
+    "size": [
+      822,
+      162
+    ],
+    "lines": 1,
+    "source_text_height_px": 78.3,
+    "words": "diegosouzapw/OmniRoute",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  },
+  {
+    "id": "pattern",
+    "page": 13,
+    "dpi": 300,
+    "rect_points": [
+      42.75,
+      668.3,
+      513.18,
+      794.77
+    ],
+    "rect_pixels": [
+      136,
+      2743,
+      2180,
+      3353
+    ],
+    "size": [
+      2044,
+      610
+    ],
+    "lines": 4,
+    "source_text_height_px": 95.4,
+    "words": "The pattern, stated plainly Count how these nine install. Agent skills and harnesses: ECC, CLI-Anything, google/skills, DeepSeek Harness, Humanizer, Stop Slop. Six of nine.",
+    "forbidden_checked": [
+      "stars",
+      "\\d+\\s*k\\b",
+      "~?\\d+k",
+      "%",
+      "tokens",
+      "providers",
+      "commits",
+      "followers"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "app": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/dist/JDH Shorts Studio.app",
+  "version": "0.2.5",
+  "isolated_data": true,
+  "real_nano_inference": false,
+  "fixture_label": "QA FIXTURE",
+  "checks": [
+    "real imported PNG and measured WAV",
+    "daily idea to storyboard",
+    "bounded local context",
+    "generation preserves project",
+    "review uses measured audio minimum",
+    "unsupported animation rejected",
+    "atomic append and planning provenance",
+    "idempotent apply",
+    "previous project backup",
+    "undo through normal revision-checked project save",
+    "reapply after undo rejected",
+    "media bytes preserved",
+    "project survives sidecar restart",
+    "expired session cannot replay proposal",
+    "clean EOF shutdown"
+  ],
+  "passed": true
+}

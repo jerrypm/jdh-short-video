@@ -1,0 +1,22 @@
+Judul: 9 GitHub Repos Worth a Look | AI Tools for Developers
+
+Nine repositories from this roundup, one clear point each: agent skills and hooks, command-line tools for desktop apps, screenshot-to-code, prompt-driven scraping, an agent framework in developer preview, two prose editors and an AI gateway.
+
+Repositories in the order I saved them:
+1. ECC — https://github.com/affaan-m/ECC
+2. CLI-Anything — https://github.com/HKUDS/CLI-Anything
+3. screenshot-to-code — https://github.com/abi/screenshot-to-code
+4. ScrapeGraphAI — https://github.com/ScrapeGraphAI/Scrapegraph-ai
+5. Google Skills — https://github.com/google/skills
+6. DeepSeek Harness — https://github.com/deepseek-ai/deepseek-harness
+7. Humanizer — https://github.com/blader/humanizer
+8. Stop Slop — https://github.com/hardikpandya/stop-slop
+9. OmniRoute — https://github.com/diegosouzapw/OmniRoute
+
+Source article: https://blog.stackademic.com/9-cool-repositories-i-found-on-the-internet-this-week-4966841b1a22
+
+Narration is local synthetic speech (Kokoro). Visuals are article imagery and original typography, not live demonstrations of any repository.
+
+#GitHub #DeveloperTools #AI #Coding
+
+Paket ini disiapkan untuk unggah manual. Periksa video dan suara sebelum publikasi.

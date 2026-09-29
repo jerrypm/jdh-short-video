@@ -1,0 +1,12 @@
+Judul: Moving My Game from Three.js to Godot | Heartwoodfall Devlog
+
+I'm rebuilding Heartwoodfall in Godot while keeping the original Three.js project as a reference. Claude helped with character movement; the old design still guides the next build. Some 3D assets may be reusable, but that still needs to be tested.
+
+Based on my Medium article: Heartwoodfall part III: Combine Two Tools.
+More devlogs: https://medium.com/@21zerixpm
+
+Article screenshots and animated typography; not live gameplay footage. English narration made with local Kokoro. Edited and rendered locally in JDH Shorts Studio.
+
+#Godot #GameDev #Devlog #Threejs #Claude
+
+Paket ini disiapkan untuk unggah manual. Periksa video dan suara sebelum publikasi.

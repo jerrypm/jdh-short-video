@@ -1,0 +1,142 @@
+{
+  "title": "9 GitHub Repos Worth a Look | AI Tools for Developers",
+  "description": "Nine repositories from this roundup, one clear point each: agent skills and hooks, command-line tools for desktop apps, screenshot-to-code, prompt-driven scraping, an agent framework in developer preview, two prose editors and an AI gateway.\n\nRepositories in the order I saved them:\n1. ECC \u2014 https://github.com/affaan-m/ECC\n2. CLI-Anything \u2014 https://github.com/HKUDS/CLI-Anything\n3. screenshot-to-code \u2014 https://github.com/abi/screenshot-to-code\n4. ScrapeGraphAI \u2014 https://github.com/ScrapeGraphAI/Scrapegraph-ai\n5. Google Skills \u2014 https://github.com/google/skills\n6. DeepSeek Harness \u2014 https://github.com/deepseek-ai/deepseek-harness\n7. Humanizer \u2014 https://github.com/blader/humanizer\n8. Stop Slop \u2014 https://github.com/hardikpandya/stop-slop\n9. OmniRoute \u2014 https://github.com/diegosouzapw/OmniRoute\n\nSource article: https://blog.stackademic.com/9-cool-repositories-i-found-on-the-internet-this-week-4966841b1a22\n\nNarration is local synthetic speech (Kokoro). Visuals are article imagery and original typography, not live demonstrations of any repository.\n\n#GitHub #DeveloperTools #AI #Coding",
+  "tags": [
+    "github",
+    "developer tools",
+    "ai",
+    "coding",
+    "agent skills",
+    "open source",
+    "cli",
+    "developer productivity"
+  ],
+  "hashtags": [
+    "#GitHub",
+    "#DeveloperTools",
+    "#AI",
+    "#Coding"
+  ],
+  "category_id": "28",
+  "category": "Science & Technology",
+  "language": "en",
+  "default_audio_language": "en",
+  "made_for_kids": false,
+  "sources": {
+    "article": {
+      "title": "9 Cool Repositories I Found on the Internet This Week",
+      "author": "Jerry PM",
+      "publication": "Stackademic",
+      "published": "2026-09-06",
+      "url": "https://blog.stackademic.com/9-cool-repositories-i-found-on-the-internet-this-week-4966841b1a22",
+      "url_status": "verified against a public search result whose story id (4966841b1a22) matches the id embedded in the supplied PDF's link annotations; direct fetch returned HTTP 403 from Cloudflare on 2026-09-28"
+    },
+    "repositories": [
+      {
+        "name": "ECC",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "name": "CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      {
+        "name": "screenshot-to-code",
+        "url": "https://github.com/abi/screenshot-to-code"
+      },
+      {
+        "name": "ScrapeGraphAI",
+        "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
+      },
+      {
+        "name": "Google Skills",
+        "url": "https://github.com/google/skills"
+      },
+      {
+        "name": "DeepSeek Harness",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
+      },
+      {
+        "name": "Humanizer",
+        "url": "https://github.com/blader/humanizer"
+      },
+      {
+        "name": "Stop Slop",
+        "url": "https://github.com/hardikpandya/stop-slop"
+      },
+      {
+        "name": "OmniRoute",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+      }
+    ],
+    "official_checks": "GitHub REST API, 28 September 2026 (README + repository metadata)"
+  },
+  "disclosure": {
+    "narration": "local synthetic speech generated offline with Kokoro (am_michael, 0.96)",
+    "visuals": "original typography cards plus crops of the author's article PDF; not live demonstrations of any repository",
+    "script": "written by the assistant from the article; no model generated the prose and no cloud service was used",
+    "youtube_api_field": "status.containsSyntheticMedia",
+    "api_documentation": "https://developers.google.com/youtube/v3/docs/videos (video resource, status.containsSyntheticMedia; checked 2026-09-28)",
+    "sponsorship": "none; this is not a sponsored video"
+  },
+  "upload_intent": {
+    "visibility": "private",
+    "target_channel_id": "UCRig_f5P4QyB_kilUs2PN8Q",
+    "target_channel_name": "JR DEV | SWIFT | FLUTTER",
+    "method": "resumable upload, then verify channel and processing state",
+    "status": "not uploaded: no authorized YouTube API connection is configured in this workspace (see youtube-setup.md)"
+  },
+  "verification": {
+    "file": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/output/nine-repositories-short/final.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "frames": 1934,
+    "seconds": 64.467,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "integrated_lufs": -16.0,
+    "loudness_range_lu": 2.5,
+    "true_peak_dbfs": -3.2,
+    "full_decode": "full decode of every frame completed without error",
+    "audio_gaps_over_0_9s": [],
+    "export_check": {
+      "verified_file": true,
+      "full_decode_passed": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frames": 1934,
+      "container_seconds": 64.466667,
+      "audio": {
+        "seconds": 64.46933333333334,
+        "peak_dbfs": -3.163,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "sample_peak_only": true
+    },
+    "quality_report": {
+      "verified_file": true,
+      "full_decode_passed": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frames": 1934,
+      "container_seconds": 64.466667,
+      "audio": {
+        "seconds": 64.46933333333334,
+        "peak_dbfs": -3.163,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "sample_peak_only": true
+    }
+  }
+}

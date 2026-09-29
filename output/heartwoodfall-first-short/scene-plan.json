@@ -1,0 +1,112 @@
+[
+  {
+    "id": "heartwood-01",
+    "name": "Hook",
+    "narration": "I'm moving my game from Three.js to Godot.",
+    "caption": "I'm moving my game\nfrom Three.js to Godot.",
+    "file": "source/image-011.png",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "callout": "THREE.JS  >  GODOT"
+  },
+  {
+    "id": "heartwood-02",
+    "name": "The question",
+    "narration": "Does that mean starting over?",
+    "caption": "Does that mean starting over?",
+    "file": "visuals/02-question.png",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "callout": null
+  },
+  {
+    "id": "heartwood-03",
+    "name": "The answer",
+    "narration": "For the code, yes. For the whole project? No.",
+    "caption": "For the code, yes. For\nthe whole project? No.",
+    "file": "visuals/03-answer.png",
+    "fit": "fill",
+    "motion": "zoom_out",
+    "callout": null
+  },
+  {
+    "id": "heartwood-04",
+    "name": "The original",
+    "narration": "Heartwoodfall started as a Three.js project.",
+    "caption": "Heartwoodfall started\nas a Three.js project.",
+    "file": "visuals/04-origin.png",
+    "fit": "fill",
+    "motion": "pan_right",
+    "callout": null
+  },
+  {
+    "id": "heartwood-05",
+    "name": "Claude",
+    "narration": "Claude helped me fix the character movement.",
+    "caption": "Claude helped me fix the\ncharacter movement.",
+    "file": "source/image-002.png",
+    "fit": "fit",
+    "motion": "zoom_in",
+    "callout": "FIXING CHARACTER MOVEMENT"
+  },
+  {
+    "id": "heartwood-06",
+    "name": "Godot rebuild",
+    "narration": "Now I'm rebuilding in Godot.",
+    "caption": "Now I'm rebuilding in Godot.",
+    "file": "source/image-011.png",
+    "fit": "fit",
+    "motion": "zoom_in",
+    "callout": "REBUILDING IN GODOT"
+  },
+  {
+    "id": "heartwood-07",
+    "name": "Use as reference",
+    "narration": "The original still guides the characters, environments, and interface.",
+    "caption": "The original still guides the characters,\nenvironments, and interface.",
+    "file": "source/image-011.png",
+    "fit": "fill",
+    "motion": "pan_right",
+    "callout": "SAME VISUAL DIRECTION"
+  },
+  {
+    "id": "heartwood-08",
+    "name": "Reusable assets",
+    "narration": "Some assets may carry over, including my three-D models.",
+    "caption": "Some assets may carry over,\nincluding my 3D models.",
+    "file": "visuals/08-assets.png",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "callout": null
+  },
+  {
+    "id": "heartwood-09",
+    "name": "Foundation",
+    "narration": "A new engine means rebuilding the foundation,",
+    "caption": "A new engine means\nrebuilding the foundation,",
+    "file": "visuals/09-foundation.png",
+    "fit": "fill",
+    "motion": "zoom_out",
+    "callout": null
+  },
+  {
+    "id": "heartwood-10",
+    "name": "Keep the work",
+    "narration": "not throwing away every useful idea.",
+    "caption": "not throwing away every useful idea.",
+    "file": "visuals/10-keep.png",
+    "fit": "fill",
+    "motion": "zoom_in",
+    "callout": null
+  },
+  {
+    "id": "heartwood-11",
+    "name": "Subscribe",
+    "narration": "Subscribe for more content.",
+    "caption": "Subscribe for more content.",
+    "file": "visuals/11-subscribe.png",
+    "fit": "fill",
+    "motion": "zoom_out",
+    "callout": null
+  }
+]

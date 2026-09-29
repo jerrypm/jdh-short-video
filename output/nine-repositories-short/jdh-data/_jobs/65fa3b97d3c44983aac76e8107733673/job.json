@@ -1,0 +1,49 @@
+{
+  "id": "65fa3b97d3c44983aac76e8107733673",
+  "project_id": "934dfea9934d40699be44999e3827113",
+  "kind": "render",
+  "status": "completed",
+  "progress": 100,
+  "message": "Selesai",
+  "files": [
+    "draft.mp4",
+    "narration.wav",
+    "captions.srt",
+    "project.json",
+    "project.zip",
+    "upload-metadata.json",
+    "upload-notes.txt",
+    "quality-report.json",
+    "upload.zip"
+  ],
+  "result": {
+    "revision": 55,
+    "width": 360,
+    "height": 640,
+    "frames": 2165,
+    "verification": {
+      "verified_file": true,
+      "full_decode_passed": true,
+      "width": 360,
+      "height": 640,
+      "fps": 30.0,
+      "frames": 2165,
+      "container_seconds": 72.166667,
+      "audio": {
+        "seconds": 72.17066666666666,
+        "peak_dbfs": -4.568,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [
+          [
+            57.7,
+            59.49
+          ]
+        ],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "sample_peak_only": true
+    }
+  }
+}

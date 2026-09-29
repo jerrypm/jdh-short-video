@@ -1,0 +1,25 @@
+{
+  "revision": 47,
+  "width": 1080,
+  "height": 1920,
+  "frames": 1289,
+  "verification": {
+    "verified_file": true,
+    "full_decode_passed": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "frames": 1289,
+    "container_seconds": 42.966667,
+    "audio": {
+      "seconds": 42.986666666666665,
+      "peak_dbfs": -1.436,
+      "near_full_scale_samples": 0,
+      "at_full_scale_samples": 0,
+      "long_silences": [],
+      "sample_rate": 48000,
+      "window_ms": 10
+    },
+    "sample_peak_only": true
+  }
+}

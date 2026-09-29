@@ -1,0 +1,21 @@
+{
+  "version": "0.2.7",
+  "build": 9,
+  "surface": "Codex in-app browser via CUA",
+  "disposable_data": true,
+  "native_webkit_verified": false,
+  "real_nano_inference": false,
+  "passed": [
+    "identity/editor rendering",
+    "zoom initial middle final DOM/screenshot",
+    "caption/callout initial middle final DOM/screenshot",
+    "motion none retains visible text",
+    "callout edit Undo Redo",
+    "callout edit persists after reload",
+    "width clamped to 800",
+    "slide box and target bounds",
+    "playback reaches final frame without media alert",
+    "no warning/error console logs"
+  ],
+  "screenshots": "Shown inline; not saved as browser screenshot files"
+}

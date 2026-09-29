@@ -1,0 +1,12 @@
+.venv/
+node_modules/
+.next/
+out/
+__pycache__/
+.pytest_cache/
+data/
+*.tsbuildinfo
+.DS_Store
+macos/.build/
+dist/
+.ruff_cache/

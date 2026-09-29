@@ -1,0 +1,187 @@
+                                                 Open in app
+
+                                                                                                      52
+                                 Search                                                       Write
+
+
+
+
+    Member-only story
+
+
+
+ Godot Engine           Claude            Claude Code          AI   Artificial Intelligence
+
+
+
+Godot + Claude Opuse 5.5
+        Jerry PM 4 min read · 11 hours ago
+
+
+
+
+    59           1
+
+
+
+
+Heartwoodfall part III : Combine Two Tools
+
+
+
+
+A while ago, I started working on a game project using ChatGPT Astra. Later,
+when Claude Opus 5.5 started getting a lot of attention, I decided to try it as
+well.
+I mainly used Opus 5.5 to fix several issues in the game, especially the
+character movement, which had been one of the most noticeable and
+frustrating problems.
+
+
+After a few adjustments, the movement issue was finally resolved.
+
+
+Once that was done, I started looking for more ideas on how I could continue
+improving the game. I checked X.com to find references, workflows, and
+techniques that might help me refine the project further.
+
+
+That was when I came across this post.
+
+
+
+
+I remembered that I already had Godot installed on my laptop, but I had
+never really had the chance to use it properly.
+
+
+I had only experimented with it briefly before.
+
+
+So I thought this would be a good opportunity to finally give it a serious try
+and see how well it could fit into my game development workflow.
+                                 Godot existing app
+
+
+
+I remembered that I already had Godot installed on my laptop, but I had
+never really had the chance to use it properly.
+
+
+I had only experimented with it briefly before.
+
+
+So I thought this would be a good opportunity to finally give it a serious try
+and see how well it could fit into my game development workflow.
+Start Setup The Project
+The first thing I needed to do was update Godot.
+
+
+I was still using version 4.6, while the latest available version was already
+Godot 4.7.2.
+
+
+Because I’m moving the project to a different foundation, I can’t simply
+continue from the previous version.
+The original game was built with Three.js, while this new version will be
+developed in Godot.
+
+
+That means I’m essentially starting a new project from scratch, but I can still
+use the previous version as a reference for the game’s visual direction,
+character design, UI, environments, and overall concept.
+
+
+The good part is that I don’t have to throw everything away.
+
+
+I can still reuse many of the assets and ideas from the previous project while
+rebuilding the game properly in Godot.
+
+
+Godot supports importing glTF files, including .glb , which means the 3D
+models I’ve already created can potentially be reused in the new project.
+                           Opus 5.5 create object using Godot
+
+
+
+First Opus 5.5 Design UI Background game using existing project game
+
+
+By the way, I’m currently using Claude Opus 5.5 on the $20 plan, plus around
+$2.20 in tax.
+
+
+Compared with my previous experience, Opus 5.5 feels much more efficient.
+
+
+Before, I could only send a few coding prompts before hitting the usage
+limit.
+
+
+I already discussed part of this in my previous article
+
+
+Opus 5.5 Wrote Twice as Much and Still Cost Me 28% Less
+That comparison was based on only a single prompt, but while developing
+this game, the difference feels much more noticeable.
+
+
+For a relatively small project like this, running just one Claude Code session
+with Opus 5.5 has been more than enough for most of the work.
+
+
+The usage only starts to increase much faster when I run multiple sessions
+in parallel.
+
+
+I noticed this clearly while experimenting with the game redesign.
+
+
+A single-session workflow was surprisingly efficient, but once I started
+splitting the work across multiple sessions, the available usage was
+consumed much more quickly.
+
+
+That’s all for this update. The next one should be much bigger, with more
+progress to share in Part IV.
+
+
+
+  Can Multiple Claude Code Sessions Make Development Faster?
+  Can Multiple Claude Code Sessions Make Development Faster?
+  Here, I'm using a real PRD from my actual development work…
+  21zerixpm.medium.com
+
+
+
+
+Follow me on Medium Jerry PM for more iOS/AI/Tools and developer writing.
+
+
+Thank you for reading! , If this saved you from guessing at your tags, If you
+enjoyed it, please consider clapping and following for more updates!   👏
+ Godot Engine            Claude      Claude Code         AI
+Artificial Intelligence
+
+
+
+
+                          Written by Jerry PM
+                          2.7K followers · 157 following
+
+                                  IOS Engineer
+
+
+
+                                     Follow
+
+
+                                 Buy me a coffee
+
+
+                                      Etsy
+
+
+                                    Gumroad
+

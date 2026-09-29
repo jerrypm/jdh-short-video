@@ -1,0 +1,10 @@
+{
+  "startup": "passed",
+  "private_health": "passed",
+  "static_ui": "passed",
+  "kokoro": "real speech",
+  "ffmpeg": "draft MP4 + full decode",
+  "source_checkout_on_runtime_path": false,
+  "application_storage": "/private/var/folders/6d/qx7pj_816w7_l9rp129bvnkh0000gn/T/jdh-app-check-hju3eecj",
+  "shutdown": "EOF stopped owned sidecar"
+}

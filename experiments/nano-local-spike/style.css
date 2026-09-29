@@ -1,0 +1,16 @@
+:root { color-scheme: dark; font: 16px/1.55 system-ui, sans-serif; background: #11151b; color: #edf2f7; }
+body { margin: 0; }
+main { max-width: 1020px; margin: auto; padding: 36px 24px; }
+h1 { font-size: 36px; margin: 4px 0 14px; }
+h2 { font-size: 20px; }
+p { max-width: 85ch; color: #bcc6d1; }
+.eyebrow { color: #c5f563; letter-spacing: .12em; font-size: 12px; }
+.controls { display: flex; flex-wrap: wrap; gap: 10px; margin: 26px 0; }
+button { padding: 12px 16px; border: 1px solid #c5f563; border-radius: 8px; font: inherit; font-weight: 600; color: #142000; background: #c5f563; cursor: pointer; }
+button.secondary { background: #222a35; color: #edf2f7; border-color: #465467; }
+button:disabled { opacity: .45; cursor: default; }
+button:focus-visible { outline: 3px solid #91bfff; outline-offset: 3px; }
+#status { padding: 14px 18px; border: 1px solid #3a495c; border-radius: 8px; color: #e3edf8; }
+section { margin-top: 32px; border-top: 1px solid #303947; padding-top: 16px; }
+video { max-height: 330px; max-width: 100%; background: black; }
+pre { background: #090c11; padding: 18px; border-radius: 8px; white-space: pre-wrap; overflow-wrap: anywhere; font: 12px/1.65 ui-monospace, monospace; }

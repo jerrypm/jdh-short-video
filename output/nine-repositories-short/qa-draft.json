@@ -1,0 +1,146 @@
+{
+  "file": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/output/nine-repositories-short/draft/draft.mp4",
+  "label": "draft",
+  "container": {
+    "width": 360,
+    "height": 640,
+    "fps": 30.0,
+    "frames": 1934,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2,
+    "seconds": 64.467,
+    "size_bytes": 1655716
+  },
+  "decode": "full decode of every frame completed without error",
+  "timeline": {
+    "project_frames": 1934,
+    "video_frames": 1934,
+    "matches": true,
+    "project_seconds": 64.47
+  },
+  "audio_gaps_over_0_9s": [],
+  "loudness_ebur128": {
+    "I": -16.0,
+    "LRA": 2.5,
+    "Peak": -3.2
+  },
+  "card_matching": {
+    "checked": 26,
+    "mismatches": [],
+    "min_margin": 5.97,
+    "note": "best-fit score over a +/-offset and 1.0-1.035 zoom grid; every scene frame must match its own card"
+  },
+  "captions": {
+    "checks": [
+      {
+        "scene": "nine-repos-01",
+        "caption": "Nine repositories worth a closer look.",
+        "masked_pixels": 2448,
+        "mae": 21.12,
+        "control_mae": 116.34,
+        "control_text": "ECC packages skills, agents, and hooks."
+      },
+      {
+        "scene": "nine-repos-02",
+        "caption": "ECC packages skills, agents, and hooks.",
+        "masked_pixels": 2467,
+        "mae": 18.54,
+        "control_mae": 93.3,
+        "control_text": "CLI-Anything turns desktop software into command-line tools."
+      },
+      {
+        "scene": "nine-repos-03",
+        "caption": "CLI-Anything turns desktop software into command-line tools.",
+        "masked_pixels": 3747,
+        "mae": 18.76,
+        "control_mae": 94.75,
+        "control_text": "Screenshot-to-code turns reference images into web layouts."
+      },
+      {
+        "scene": "nine-repos-04",
+        "caption": "Screenshot-to-code turns reference images into web layouts.",
+        "masked_pixels": 3659,
+        "mae": 19.71,
+        "control_mae": 103.63,
+        "control_text": "ScrapeGraphAI extracts web data from prompts."
+      },
+      {
+        "scene": "nine-repos-05",
+        "caption": "ScrapeGraphAI extracts web data from prompts.",
+        "masked_pixels": 2964,
+        "mae": 18.37,
+        "control_mae": 98.17,
+        "control_text": "Google Skills adds agent skills for cloud and developer workflows."
+      },
+      {
+        "scene": "nine-repos-06",
+        "caption": "Google Skills adds agent skills for cloud and developer workflows.",
+        "masked_pixels": 4052,
+        "mae": 18.21,
+        "control_mae": 103.38,
+        "control_text": "DeepSeek Harness is a plugin-based agent framework."
+      },
+      {
+        "scene": "nine-repos-07",
+        "caption": "DeepSeek Harness is a plugin-based agent framework.",
+        "masked_pixels": 3406,
+        "mae": 19.25,
+        "control_mae": 102.62,
+        "control_text": "Humanizer rewrites prose that sounds AI-generated."
+      },
+      {
+        "scene": "nine-repos-08",
+        "caption": "Humanizer rewrites prose that sounds AI-generated.",
+        "masked_pixels": 3163,
+        "mae": 18.58,
+        "control_mae": 94.37,
+        "control_text": "Stop Slop adds writing rules and a rubric for reviewing prose."
+      },
+      {
+        "scene": "nine-repos-09",
+        "caption": "Stop Slop adds writing rules and a rubric for reviewing prose.",
+        "masked_pixels": 3666,
+        "mae": 18.69,
+        "control_mae": 102.31,
+        "control_text": "OmniRoute routes requests across model providers."
+      },
+      {
+        "scene": "nine-repos-10",
+        "caption": "OmniRoute routes requests across model providers.",
+        "masked_pixels": 3120,
+        "mae": 18.6,
+        "control_mae": 86.04,
+        "control_text": "The pattern? More tools are now packaged for agents to use."
+      },
+      {
+        "scene": "nine-repos-11",
+        "caption": "The pattern? More tools are now packaged for agents to use.",
+        "masked_pixels": 3565,
+        "mae": 18.79,
+        "control_mae": 99.12,
+        "control_text": "Pick what fits your workflow. Read the README first."
+      },
+      {
+        "scene": "nine-repos-12",
+        "caption": "Pick what fits your workflow. Read the README first.",
+        "masked_pixels": 3258,
+        "mae": 18.0,
+        "control_mae": 126.59,
+        "control_text": "Subscribe for more content."
+      },
+      {
+        "scene": "nine-repos-13",
+        "caption": "Subscribe for more content.",
+        "masked_pixels": 1829,
+        "mae": 21.95,
+        "control_mae": 84.09,
+        "control_text": "Nine repositories worth a closer look."
+      }
+    ],
+    "worst_mae": 21.95,
+    "note": "mae is measured only on pixels the caption renderer marks opaque; control_mae uses the next scene's caption as a wrong-text test"
+  },
+  "contact_sheet": "/Users/jeripurnamamaulid/Projects/01_PRODUCT-Claude/jdh-shorts-studio/output/nine-repositories-short/review/contact-sheet-draft.png"
+}

@@ -1,0 +1,403 @@
+[
+  {
+    "scene": "hook-title",
+    "crop": [
+      2075,
+      602
+    ],
+    "scale": 0.395,
+    "placed": [
+      820,
+      238
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-01",
+    "header_right": "SEP 6, 2026",
+    "number": "9",
+    "title": "REPOSITORIES",
+    "benefit": "Worth a closer look. One point each.",
+    "text_widths": [
+      676.0,
+      727.0
+    ],
+    "widest": 727.0
+  },
+  {
+    "scene": "ecc-head",
+    "crop": [
+      876,
+      188
+    ],
+    "scale": 0.84,
+    "placed": [
+      736,
+      158
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "ecc-slug",
+    "crop": [
+      476,
+      161
+    ],
+    "scale": 0.981,
+    "placed": [
+      467,
+      158
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-02",
+    "header_right": "1 / 9",
+    "number": "01",
+    "title": "ECC",
+    "benefit": "Packaged skills, agents, and hooks. Choose selectively.",
+    "text_widths": [
+      176.0,
+      715.0,
+      389.0
+    ],
+    "widest": 715.0
+  },
+  {
+    "scene": "cli-anything-head",
+    "crop": [
+      1425,
+      188
+    ],
+    "scale": 0.575,
+    "placed": [
+      820,
+      108
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "cli-anything-slug",
+    "crop": [
+      692,
+      162
+    ],
+    "scale": 0.975,
+    "placed": [
+      675,
+      158
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-03",
+    "header_right": "2 / 9",
+    "number": "02",
+    "title": "CLI-Anything",
+    "benefit": "Generates command-line tools agents can drive.",
+    "text_widths": [
+      575.0,
+      769.0,
+      197.0
+    ],
+    "widest": 769.0
+  },
+  {
+    "scene": "screenshot-to-code-head",
+    "crop": [
+      1294,
+      188
+    ],
+    "scale": 0.634,
+    "placed": [
+      820,
+      119
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "screenshot-to-code-slug",
+    "crop": [
+      730,
+      162
+    ],
+    "scale": 0.975,
+    "placed": [
+      712,
+      158
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-04",
+    "header_right": "3 / 9",
+    "number": "03",
+    "title": "Screenshot-to-code",
+    "benefit": "Converts reference images into web layouts.",
+    "text_widths": [
+      840.0,
+      723.0,
+      162.0
+    ],
+    "widest": 840.0
+  },
+  {
+    "scene": "scrapegraphai-head",
+    "crop": [
+      1877,
+      188
+    ],
+    "scale": 0.437,
+    "placed": [
+      820,
+      82
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "scrapegraphai-slug",
+    "crop": [
+      963,
+      161
+    ],
+    "scale": 0.852,
+    "placed": [
+      820,
+      137
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-05",
+    "header_right": "4 / 9",
+    "number": "04",
+    "title": "ScrapeGraphAI",
+    "benefit": "Prompt-driven extraction of web data.",
+    "text_widths": [
+      671.0,
+      770.0
+    ],
+    "widest": 770.0
+  },
+  {
+    "scene": "google-skills",
+    "crop": [
+      792,
+      138
+    ],
+    "scale": 1.035,
+    "placed": [
+      820,
+      143
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-06",
+    "header_right": "5 / 9",
+    "number": "05",
+    "title": "Google Skills",
+    "benefit": "Agent skills for cloud and developer workflows.",
+    "text_widths": [
+      561.0,
+      722.0,
+      224.0
+    ],
+    "widest": 722.0
+  },
+  {
+    "scene": "deepseek-harness-head",
+    "crop": [
+      1759,
+      188
+    ],
+    "scale": 0.466,
+    "placed": [
+      820,
+      88
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "deepseek-harness-slug",
+    "crop": [
+      939,
+      162
+    ],
+    "scale": 0.873,
+    "placed": [
+      820,
+      141
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-07",
+    "header_right": "6 / 9",
+    "number": "06",
+    "title": "DeepSeek Harness",
+    "benefit": "A plugin-based agent framework. Listed as a developer preview.",
+    "text_widths": [
+      815.0,
+      806.0,
+      476.0
+    ],
+    "widest": 815.0
+  },
+  {
+    "scene": "humanizer-head",
+    "crop": [
+      1001,
+      189
+    ],
+    "scale": 0.819,
+    "placed": [
+      820,
+      155
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "humanizer-slug",
+    "crop": [
+      593,
+      161
+    ],
+    "scale": 0.981,
+    "placed": [
+      582,
+      158
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-08",
+    "header_right": "7 / 9",
+    "number": "07",
+    "title": "Humanizer",
+    "benefit": "Rewrites AI-style prose while preserving code and data.",
+    "text_widths": [
+      474.0,
+      821.0,
+      296.0
+    ],
+    "widest": 821.0
+  },
+  {
+    "scene": "stop-slop-head",
+    "crop": [
+      1649,
+      188
+    ],
+    "scale": 0.497,
+    "placed": [
+      820,
+      93
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "stop-slop-slug",
+    "crop": [
+      754,
+      162
+    ],
+    "scale": 0.975,
+    "placed": [
+      735,
+      158
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-09",
+    "header_right": "8 / 9",
+    "number": "08",
+    "title": "Stop Slop",
+    "benefit": "Writing rules plus a rubric for reviewing prose.",
+    "text_widths": [
+      415.0,
+      795.0,
+      127.0
+    ],
+    "widest": 795.0
+  },
+  {
+    "scene": "omniroute-head",
+    "crop": [
+      1076,
+      188
+    ],
+    "scale": 0.762,
+    "placed": [
+      820,
+      143
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "omniroute-slug",
+    "crop": [
+      822,
+      162
+    ],
+    "scale": 0.975,
+    "placed": [
+      802,
+      158
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-10",
+    "header_right": "9 / 9",
+    "number": "09",
+    "title": "OmniRoute",
+    "benefit": "Routes requests across model providers.",
+    "text_widths": [
+      485.0,
+      823.0
+    ],
+    "widest": 823.0
+  },
+  {
+    "scene": "pattern",
+    "crop": [
+      2044,
+      610
+    ],
+    "scale": 0.401,
+    "placed": [
+      820,
+      245
+    ],
+    "text_height_px": null
+  },
+  {
+    "scene": "nine-repos-11",
+    "header_right": "THE PATTERN",
+    "number": "6/9",
+    "title": "AGENT SKILLS",
+    "benefit": "Six of nine install as something you hand to an agent.",
+    "text_widths": [
+      644.0,
+      821.0,
+      238.0
+    ],
+    "widest": 821.0
+  },
+  {
+    "scene": "nine-repos-12",
+    "advice": "Read the README. Check the last commit."
+  },
+  {
+    "scene": "nine-repos-13",
+    "cta_line": "Subscribe",
+    "width": 707.0
+  },
+  {
+    "scene": "nine-repos-13",
+    "cta_line": "for more content.",
+    "width": 634.0
+  }
+]

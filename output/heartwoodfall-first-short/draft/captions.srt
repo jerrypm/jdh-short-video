@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:04,133
+I'm moving my game
+from Three.js to Godot.
+
+2
+00:00:04,133 --> 00:00:07,000
+Does that mean starting over?
+
+3
+00:00:07,000 --> 00:00:11,067
+For the code, yes. For
+the whole project? No.
+
+4
+00:00:11,067 --> 00:00:15,467
+Heartwoodfall started
+as a Three.js project.
+
+5
+00:00:15,467 --> 00:00:19,000
+Claude helped me fix the
+character movement.
+
+6
+00:00:19,000 --> 00:00:21,933
+Now I'm rebuilding in Godot.
+
+7
+00:00:21,933 --> 00:00:27,300
+The original still guides the characters,
+environments, and interface.
+
+8
+00:00:27,300 --> 00:00:32,233
+Some assets may carry over,
+including my 3D models.
+
+9
+00:00:32,233 --> 00:00:36,033
+A new engine means
+rebuilding the foundation,
+
+10
+00:00:36,033 --> 00:00:39,867
+not throwing away every useful idea.
+
+11
+00:00:39,867 --> 00:00:44,633
+Follow my Heartwoodfall
+devlog for the next build.

@@ -1,0 +1,62 @@
+1
+00:00:00,000 --> 00:00:04,933
+Nine repositories worth a closer look.
+
+2
+00:00:04,933 --> 00:00:09,467
+ECC packages skills,
+agents, and hooks.
+
+3
+00:00:09,467 --> 00:00:15,033
+CLI-Anything turns desktop
+software into command-line tools.
+
+4
+00:00:15,033 --> 00:00:20,833
+Screenshot-to-code turns
+reference images into web layouts.
+
+5
+00:00:20,833 --> 00:00:26,300
+ScrapeGraphAI extracts
+web data from prompts.
+
+6
+00:00:26,300 --> 00:00:31,433
+Google Skills adds agent skills for
+cloud and developer workflows.
+
+7
+00:00:31,433 --> 00:00:37,100
+DeepSeek Harness is a
+plugin-based agent framework.
+
+8
+00:00:37,100 --> 00:00:42,833
+Humanizer rewrites prose
+that sounds AI-generated.
+
+9
+00:00:42,833 --> 00:00:47,633
+Stop Slop adds writing rules and
+a rubric for reviewing prose.
+
+10
+00:00:47,633 --> 00:00:53,033
+OmniRoute routes requests
+across model providers.
+
+11
+00:00:53,033 --> 00:00:57,467
+The pattern? More tools are
+now packaged for agents to use.
+
+12
+00:00:57,467 --> 00:01:02,000
+Pick what fits your workflow.
+Read the README first.
+
+13
+00:01:02,000 --> 00:01:04,467
+Subscribe for more content.

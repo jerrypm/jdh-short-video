@@ -1,0 +1,259 @@
+{
+  "id": "84509166b52f4d888c67c66e958abab8",
+  "project_id": "645965dbc6934456869044b6741b21cc",
+  "base_revision": 47,
+  "origin": "measured-local",
+  "settings": {
+    "long_silence_seconds": 1.5,
+    "silence_dbfs": -40.0,
+    "peak_warning_dbfs": -0.1,
+    "caption_cps": 20.0
+  },
+  "preset": "final",
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 1289,
+    "seconds": 42.96666666666667,
+    "verified_file": false
+  },
+  "findings": [],
+  "rows": [
+    {
+      "scene_id": "heartwood-01",
+      "name": "Hook",
+      "start_frame": 0,
+      "end_frame": 124,
+      "duration": 124,
+      "minimum_frames": 124,
+      "audio": {
+        "seconds": 4.133333333333334,
+        "peak_dbfs": -1.5,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "I'm moving my game\nfrom Three.js to Godot.",
+      "suggested_duration": 124,
+      "suggested_caption": "I'm moving my game\nfrom Three.js to Godot."
+    },
+    {
+      "scene_id": "heartwood-02",
+      "name": "The question",
+      "start_frame": 124,
+      "end_frame": 210,
+      "duration": 86,
+      "minimum_frames": 86,
+      "audio": {
+        "seconds": 2.8666666666666667,
+        "peak_dbfs": -1.5,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Does that mean starting over?",
+      "suggested_duration": 86,
+      "suggested_caption": "Does that mean starting over?"
+    },
+    {
+      "scene_id": "heartwood-03",
+      "name": "The answer",
+      "start_frame": 210,
+      "end_frame": 332,
+      "duration": 122,
+      "minimum_frames": 122,
+      "audio": {
+        "seconds": 4.066666666666666,
+        "peak_dbfs": -3.261,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "For the code, yes. For\nthe whole project? No.",
+      "suggested_duration": 122,
+      "suggested_caption": "For the code, yes. For\nthe whole project? No."
+    },
+    {
+      "scene_id": "heartwood-04",
+      "name": "The original",
+      "start_frame": 332,
+      "end_frame": 464,
+      "duration": 132,
+      "minimum_frames": 132,
+      "audio": {
+        "seconds": 4.4,
+        "peak_dbfs": -1.5,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Heartwoodfall started\nas a Three.js project.",
+      "suggested_duration": 132,
+      "suggested_caption": "Heartwoodfall started\nas a Three.js project."
+    },
+    {
+      "scene_id": "heartwood-05",
+      "name": "Claude",
+      "start_frame": 464,
+      "end_frame": 570,
+      "duration": 106,
+      "minimum_frames": 106,
+      "audio": {
+        "seconds": 3.533333333333333,
+        "peak_dbfs": -1.5,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Claude helped me fix the\ncharacter movement.",
+      "suggested_duration": 106,
+      "suggested_caption": "Claude helped me fix the\ncharacter movement."
+    },
+    {
+      "scene_id": "heartwood-06",
+      "name": "Godot rebuild",
+      "start_frame": 570,
+      "end_frame": 658,
+      "duration": 88,
+      "minimum_frames": 88,
+      "audio": {
+        "seconds": 2.933333333333333,
+        "peak_dbfs": -1.509,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Now I'm rebuilding in Godot.",
+      "suggested_duration": 88,
+      "suggested_caption": "Now I'm rebuilding in Godot."
+    },
+    {
+      "scene_id": "heartwood-07",
+      "name": "Use as reference",
+      "start_frame": 658,
+      "end_frame": 819,
+      "duration": 161,
+      "minimum_frames": 161,
+      "audio": {
+        "seconds": 5.366666666666666,
+        "peak_dbfs": -1.506,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "The original still guides the characters,\nenvironments, and interface.",
+      "suggested_duration": 161,
+      "suggested_caption": "The original still guides the characters,\nenvironments, and interface."
+    },
+    {
+      "scene_id": "heartwood-08",
+      "name": "Reusable assets",
+      "start_frame": 819,
+      "end_frame": 967,
+      "duration": 148,
+      "minimum_frames": 148,
+      "audio": {
+        "seconds": 4.933333333333334,
+        "peak_dbfs": -1.5,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Some assets may carry over,\nincluding my 3D models.",
+      "suggested_duration": 148,
+      "suggested_caption": "Some assets may carry over,\nincluding my 3D models."
+    },
+    {
+      "scene_id": "heartwood-09",
+      "name": "Foundation",
+      "start_frame": 967,
+      "end_frame": 1081,
+      "duration": 114,
+      "minimum_frames": 114,
+      "audio": {
+        "seconds": 3.8,
+        "peak_dbfs": -1.5,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "A new engine means\nrebuilding the foundation,",
+      "suggested_duration": 114,
+      "suggested_caption": "A new engine means\nrebuilding the foundation,"
+    },
+    {
+      "scene_id": "heartwood-10",
+      "name": "Keep the work",
+      "start_frame": 1081,
+      "end_frame": 1196,
+      "duration": 115,
+      "minimum_frames": 115,
+      "audio": {
+        "seconds": 3.8333333333333335,
+        "peak_dbfs": -1.5,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "not throwing away every useful idea.",
+      "suggested_duration": 115,
+      "suggested_caption": "not throwing away every useful idea."
+    },
+    {
+      "scene_id": "heartwood-11",
+      "name": "Subscribe",
+      "start_frame": 1196,
+      "end_frame": 1289,
+      "duration": 93,
+      "minimum_frames": 78,
+      "audio": {
+        "seconds": 2.575,
+        "peak_dbfs": -4.512,
+        "near_full_scale_samples": 0,
+        "at_full_scale_samples": 0,
+        "long_silences": [],
+        "sample_rate": 48000,
+        "window_ms": 10
+      },
+      "caption": "Subscribe for more content.",
+      "suggested_duration": 93,
+      "suggested_caption": "Subscribe for more content."
+    }
+  ],
+  "mix": {
+    "seconds": 42.96666666666667,
+    "peak_dbfs": -1.5,
+    "near_full_scale_samples": 0,
+    "at_full_scale_samples": 0,
+    "long_silences": [],
+    "sample_rate": 48000,
+    "window_ms": 10
+  },
+  "limitations": [
+    "Puncak sampel, bukan true peak/LUFS atau bukti distorsi.",
+    "Deteksi jeda berdasarkan level, bukan pengenalan kata.",
+    "Overlap memakai bounding box semua frame, bukan penilaian estetika.",
+    "Dimensi/durasi rencana diverifikasi lagi pada file hasil ekspor."
+  ]
+}

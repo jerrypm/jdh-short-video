@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-22",
+  "app_version": "0.2.2",
+  "app_build": 4,
+  "mode": "isolated-qa",
+  "model": "explicit QA fixture, not Gemini Nano inference",
+  "checks": {
+    "setup_pair_link": "passed",
+    "hook_review_apply_undo": "passed",
+    "draft_review": "passed",
+    "scene_preservation": "passed; three original scenes remained",
+    "cancel": "passed; fixture observed cancellation for same request UUID",
+    "stale_proposal": "passed; all apply buttons disabled after script changed",
+    "disconnect": "passed; error shown and AI controls disabled",
+    "manual_edit_after_disconnect": "passed; saved reference_notes verified in QA manifest",
+    "quit": "passed; native app quit",
+    "real_integrated_nano": "blocked by Chrome ERR_BLOCKED_BY_CLIENT"
+  },
+  "fixture_requests": {
+    "hooks_applied_then_undone": "2247b231-02d9-4b28-9202-f5239044dea6",
+    "cancelled_draft": "fcc31477-dc4a-470f-940b-9a783de63973",
+    "stale_hooks": "31bd3427-f091-48b6-9d11-0fb12be3ecdb",
+    "disconnected_draft": "7b742fb6-9a7e-41db-b76d-cd25b1ae66f1"
+  },
+  "final_qa_project": {
+    "id": "ace021bcc0c24762afc262db80a60d52",
+    "revision": 5,
+    "scene_count": 3
+  },
+  "browser_security_settings_changed": false,
+  "work_account_accessed": false,
+  "installed_app_replaced": false,
+  "dmg_rebuilt": false
+}

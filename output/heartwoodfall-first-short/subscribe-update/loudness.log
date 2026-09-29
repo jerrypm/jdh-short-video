@@ -1,0 +1,28 @@
+[aist#0:0/pcm_s16le @ 0xab2800180] Guessed Channel Layout: mono
+Input #0, wav, from 'output/heartwoodfall-first-short/subscribe-update/subscribe-original.wav':
+  Duration: 00:00:02.58, bitrate: 384 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'output/heartwoodfall-first-short/subscribe-update/subscribe-leveled.wav':
+  Metadata:
+    ISFT            : Lavf62.12.101
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s
+    Metadata:
+      encoder         : Lavc62.28.101 pcm_s16le
+[Parsed_loudnorm_0 @ 0xab2814a80] 
+{
+	"input_i" : "-25.89",
+	"input_tp" : "-9.42",
+	"input_lra" : "0.00",
+	"input_thresh" : "-36.58",
+	"output_i" : "-17.96",
+	"output_tp" : "-1.50",
+	"output_lra" : "0.00",
+	"output_thresh" : "-28.87",
+	"normalization_type" : "linear",
+	"target_offset" : "1.96"
+}
+[out#0/wav @ 0xab2814240] video:0KiB audio:483KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.015777%
+size=     483KiB time=00:00:02.57 bitrate=1536.2kbits/s speed=52.8x elapsed=0:00:00.04    

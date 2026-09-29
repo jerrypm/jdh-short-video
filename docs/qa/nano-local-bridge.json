@@ -1,0 +1,28 @@
+{
+  "connected": true,
+  "job": {
+    "id": "daf061de-382c-4a5e-a2c9-68d933b99f03",
+    "action": "ideas_fixture",
+    "status": "completed",
+    "deadline": 1830908.259551833,
+    "output": {
+      "ideas": [
+        {
+          "title": "Defining Your View Hierarchy",
+          "hook": "Understand how to organize your SwiftUI views for efficient and maintainable code!"
+        },
+        {
+          "title": "Modifiers Explained",
+          "hook": "Learn how SwiftUI modifiers transform your views with simple code!"
+        },
+        {
+          "title": "State and Binding Basics",
+          "hook": "Explore how reactive data flows through SwiftUI with state and binding!"
+        }
+      ]
+    },
+    "error": null,
+    "elapsed_ms": 26615.4
+  },
+  "client_elapsed_ms": 28328.8
+}
